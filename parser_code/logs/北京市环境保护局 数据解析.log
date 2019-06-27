@@ -1,0 +1,927 @@
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/845590/index.html
+存入parsed_data
+{'announcementTitle': '责令北京中钞锡克拜安全油墨有限公司改正违反大气污染防治管理制度违法行为决定书', 'announcementOrg': '北京市生态环境局', 'announcementDate': '2019年2月1日', 'announcementCode': '京环境责改字〔2019〕 Z\xa04号', 'facts': '我局于2019年1月21日对你单位位于北京市北京经济技术开发区运成街5号的北京中钞锡克拜安全油墨有限公司进行了调查，发现你单位生产车间设置了废气处理设施并设有监测孔，但未设置采样监测平台，未按规范设置安全通向监测平台的监测梯架，也未设置监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/1195—2015）中废气监测点位和监测点位标志牌设置要求的规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京中钞锡克拜安全油墨有限公司\n\u3000\u3000法定代表人：邹从标\n\u3000\u3000地址：北京市北京经济技术开发区运成街5号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起30日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1bb6f9bf8d0d3a5e4707'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/844981/index.html
+存入parsed_data
+{'announcementTitle': '责令北京金辉印务有限公司改正违反大气污染防治管理制度违法行为决定书', 'announcementOrg': '北京市生态环境局', 'announcementDate': '2019年1月24日', 'announcementCode': '京环境责改字〔2019〕 Z\xa03号', 'facts': '我局于2019年1月9日对你单位位于北京市通州区嘉创四路6号的北京金辉印务有限公司进行检查，发现你单位VOCS废气治理设施的监测平台与坠落高度基准面之间的距离超过2米，未按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）废气监测点位设置技术要求的规定设置监测梯架。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京金辉印务有限公司\n\u3000\u3000法定代表人：蔡春华\n\u3000\u3000地址： 北京市通州区嘉创四路6号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位于2019年4月30日前改正违法行为，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置监测梯架，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c01f9bf8d0d3a5e4709'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/844198/index.html
+存入parsed_data
+{'announcementTitle': '责令威立雅资源利用（北京）有限公司改正违反大气污染防治管理制度违法行为决定书', 'announcementOrg': '北京市生态环境局', 'announcementDate': '2019年1月2日', 'announcementCode': '京环境责改字〔2019〕Z 1号', 'facts': '我局于2018年11月24日对你单位威立雅资源利用（北京）有限公司位于北京市昌平区小汤山镇阿苏卫循环经济园的沼气发电厂进行了检查，发现你单位有4台发电机组，其中1号和2号发电机组废气排放口未按规定要求设置监测梯架和平台，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：威立雅资源利用（北京）有限公司\n\u3000\u3000法定代表人：周小华\n\u3000\u3000地址： 北京市朝阳区东三环北路8号北京亮马河大厦2座2302室', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '《北京市大气污染防治条例》第三十四条第二款的规定。《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起20日之内，依照《固定污染源监测点位设置技术规范》（DB11/ 1195-2015）要求设置监测点位和采样监测平台，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c02f9bf8d0d3a5e470b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/844114/index.html
+存入parsed_data
+{'announcementTitle': '责令北京宗记餐饮有限公司改正违反大气污染防治管理制度违法行为决定书', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年12月29日', 'announcementCode': '京环保责改字〔2018〕4 号', 'facts': '我局执法人员于2018年9月19日对你单位经营的位于北京市朝阳区崔各庄乡草场地55号的北京宗记餐饮有限公司进行了现场调查，发现你单位后厨油烟净化装置排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京宗记餐饮有限公司\n\u3000\u3000法定代表人：王益民\n\u3000\u3000地址：北京市朝阳区崔各庄乡草场地55号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\xa0\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c02f9bf8d0d3a5e470d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/843268/index.html
+存入parsed_data
+{'announcementTitle': '责令北京渝乡妹子餐厅改正违反大气污染防治管理制度违法行为决定书', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年11月29日', 'announcementCode': '京环境责改字〔2018〕Z3号', 'facts': '我局于2018年10月7日对你单位经营的北京渝乡妹子餐厅进行了现场调查，发现你单位中餐后厨油烟净化系统屋顶排放烟道上未设置监测孔、无监测点位标志牌，无监测梯架，不能保障监测人员安全通往监测平台，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京渝乡妹子餐厅\n\u3000\u3000经营者：谭德毅\n\u3000\u3000地址：北京市海淀区西北旺镇韩家川村韩家川路121号平房', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌、监测平台，并将改正情况书面报告我局。 \xa0\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c03f9bf8d0d3a5e470f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/843264/index.html
+存入parsed_data
+{'announcementTitle': '责令中铁上海工程局集团有限公司改正违反大气污染防治管理制度违法行为决定书', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年11月29日', 'announcementCode': '京环境责改字〔2018〕Z2 号', 'facts': '我局于2018年10月4日对你单位位于北京市海淀区西四环北路137号的北京地铁6号线西延工程轨道安装工程进行了调查，发现你单位员工食堂后厨油烟净化系统屋后排放烟道上未设置监测孔、无监测点位标志牌，无监测梯架，不能保障监测人员安全通往监测平台，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中铁上海工程局集团有限公司\n\u3000\u3000法定代表人：荣树森\n\u3000\u3000地址：上海市江场三路278号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c03f9bf8d0d3a5e4711'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/843249/index.html
+存入parsed_data
+{'announcementTitle': '责令北京德洋中车汽车零部件有限公司改正违反大气污染防治管理制度违法行为决定书', 'announcementOrg': '北京市生态环境局', 'announcementDate': '2018年11月28日', 'announcementCode': '京环境责改字〔2018〕 Z 1 号', 'facts': '我局于2018年9月25日对你单位进行了调查，发现你单位有注塑和喷涂两个车间，主要生产汽车仪表盘和水箱支架等零部件，你单位喷涂车间废气排放口的监测高度超过2米，但未按照规定要求设置监测梯架；注塑车间废气排放口未按规定设置监测平台和监测梯架，上述行为不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京德洋中车汽车零部件有限公司\n\u3000\u3000法定代表人：冯建国\n\u3000\u3000地址：北京市昌平区科技园区超前路37号院16号楼2层C2167号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起七日内，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c04f9bf8d0d3a5e4713'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842850/index.html
+存入parsed_data
+{'announcementTitle': '责令北京雅佳星餐厅第三分店改正违反大气污染防治管理制度违法行为决定书 （【2018】Z50号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月17日', 'announcementCode': '京环保责改字〔2018〕Z50\xa0号', 'facts': '我局执法人员于2018年8月23日对你单位经营的位于北京市海淀区暂安处1号A6-01的北京雅佳星餐厅第三分店进行了现场检查，发现你单位安装有1台油烟净化器，位于四楼楼顶平台，排放烟道上未设置监测孔,无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京雅佳星餐厅第三分店\n\u3000\u3000法定代表人：高先碧\n\u3000\u3000地址：北京市海淀区暂安处1号A6-01', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c04f9bf8d0d3a5e4715'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842838/index.html
+存入parsed_data
+{'announcementTitle': '责令北京首宾湘菜餐厅改正违法行为决定书（〔2018〕Z52号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月21日', 'announcementCode': '京环保责改字〔2018〕52\xa0号', 'facts': '我局于2018年9月17日对你单位进行了调查，发现你单位有4个灶头，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京首宾湘菜餐厅\n\u3000\u3000投资人：王莹\n\u3000\u3000地址：北京市东城区前门东大街3号（首都大酒店东侧北端）', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起七日内，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c05f9bf8d0d3a5e4717'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842866/index.html
+存入parsed_data
+{'announcementTitle': '责令中国石化催化剂有限公司北京奥达分公司改正违法行为决定书（〔2018〕Z53号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月27日', 'announcementCode': '京环保监察改字〔2018〕Z53号', 'facts': '我局于2018年7月26日对你单位位于北京市通州区中关村科技园区通州园光机电一体化产业基地兴光五街13号的中国石化催化剂有限公司北京奥达分公司进行了调查，发现你单位于2017年7月至2017年11月在自建污水处理站内以酸碱中和方式自行处置生产过程产生的废酸液（渣）共计约34吨。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国石化催化剂有限公司北京奥达分公司\n\u3000\u3000法定代表人：杜宏斌\n\u3000\u3000地址：北京市通州区中关村科技园区通州园光机电一体化产业基地兴光五街13号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国固体废物污染环境防治法》五十七条第二款之规定', 'punishmentDecision': '依据《中华人民共和国固体废物污染环境防治法》第七十七条第一款之规定，责令你单位立即停止在自建污水处理站内以酸碱中和方式自行处置生产过程产生的废酸液（渣），并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c05f9bf8d0d3a5e4719'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842862/index.html
+存入parsed_data
+{'announcementTitle': '责令丽都饭店有限公司改正违反大气污染防治管理制度违法行为决定书（京环保责改字[2018]Z 56号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月30日', 'announcementCode': '京环保责改字[2018]Z 56号', 'facts': '我局于2018年8月27日对你单位位于北京市朝阳区将台路6号的丽都饭店有限公司进行检查，发现你单位的皇冠假日酒店共有3套油烟净化设施，均安装在在皇冠假日酒店楼顶屋面。其中，宴会厅使用的油烟净化设施监测平台与坠落高度基准面之间距离超过2m，使用直梯，违反了《固定污染源监测点位设置技术规范》（DB11/1195—2015）中第4章废气监测点位设置技术的要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：丽都饭店有限公司\n\u3000\u3000法定代表人：黄鹏\n\u3000\u3000地址：北京市朝阳区将台路6号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位于2018年12月31日前改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195—2015）的相关规定设置采样监测点位和监测平台，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c06f9bf8d0d3a5e471b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842858/index.html
+存入parsed_data
+{'announcementTitle': '责令采埃孚传动系统（北京）有限公司改正违反大气污染防治管理制度违法行为决定书（〔2018〕Z57号...', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年10月17日', 'announcementCode': '京环保责改字〔2018〕Z57 号', 'facts': '我局于2018年9月17日对你单位位于北京市北京经济技术开发区泰河一街2号的采埃孚传动系统（北京）有限公司进行了调查，发现你单位生产车间设置了废气处理设施并设有监测孔，但采样监测平台和监测梯架不符合《固定污染源监测点位设置技术规范》（DB11/1195—2015）中废气监测点位设置技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：采埃孚传动系统（北京）有限公司\n\u3000\u3000法定代表人：阳•威廉•吕内曼\n\u3000\u3000地址：北京市北京经济技术开发区泰河一街2号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起30日之内，按照《固定污染源监测点位设置技术规范》（DB11/1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c07f9bf8d0d3a5e471d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842854/index.html
+存入parsed_data
+{'announcementTitle': '责令北京粤金龙豆花庄改正违反大气污染防治管理制度违法行为决定书 （【2018】Z46号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月17日', 'announcementCode': '京环保责改字〔2018〕Z46\xa0号', 'facts': '我局执法人员于2018年8月26日对你单位经营的位于北京市丰台区云岗路199号的北京粤金龙豆花庄进行了现场调查，发现你单位后厨炒菜产生的油烟经净化器处理后通过烟道排放，但烟道上未设置监测孔，无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京粤金龙豆花庄（个体）\n\u3000\u3000经营者：官智文\n\u3000\u3000地址：北京市丰台区云岗路199号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c07f9bf8d0d3a5e471f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842846/index.html
+存入parsed_data
+{'announcementTitle': '责令北京小北鲸餐饮有限公司海淀皂君庙分公司改正违反大气污染防治管理制度违法行为决定书 （【2...', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月17日', 'announcementCode': '京环保责改字〔2018〕Z43\xa0号', 'facts': '我局执法人员于2018年9月3日对你单位经营的位于京市海淀区清华南路皂君庙西里1号楼南侧10幢平房的北京小北鲸餐饮有限公司海淀皂君庙分公司进行了现场调查，发现你单位后厨油烟净化装置屋顶排放烟道上未设置监测孔、无监测点位标志牌，无固定监测梯架，不能保障监测人员安全通往监测平台，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京小北鲸餐饮有限公司海淀皂君庙分公司\n\u3000\u3000负责人：廉向阳\n\u3000\u3000地址：北京市海淀区清华南路皂君庙西里1号楼南侧10幢平房', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c08f9bf8d0d3a5e4721'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842842/index.html
+存入parsed_data
+{'announcementTitle': '责令北京双乐园餐饮有限公司改正违反大气污染防治管理制度违法行为决定书 （【2018】Z45号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2018〕Z45\xa0号', 'facts': '我局执法人员于2018年8月24日对你单位经营的位于北京市石景山区八宝山永乐小区72号楼首层的北京双乐园餐饮有限公司进行了现场检查，发现你单位安装有1台油烟净化器，位于六楼楼顶平台，排放烟道上未设置监测孔,无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京双乐园餐饮有限公司\n\u3000\u3000法定代表人：王乐\n\u3000\u3000地址：北京市石景山区八宝山永乐小区72号楼首层', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c08f9bf8d0d3a5e4723'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842834/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市阁外香餐厅改正违反大气污染防治管理制度违法行为决定书 （【2018】Z49号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2018〕Z49 号', 'facts': '我局于2018年8月28日对你单位经营的北京市阁外香餐厅进行了调查，发现你单位的中餐后厨油烟净化系统屋顶排放烟道上未设置监测孔、无监测点位标志牌、无监测梯架，不能保障监测人员安全通往监测平台，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市阁外香餐厅（个体）\n\u3000\u3000经营者：杨俊玲\n\u3000\u3000地址：北京市石景山区老山北里房管处工会东', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c09f9bf8d0d3a5e4725'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842830/index.html
+存入parsed_data
+{'announcementTitle': '责令北京三湘汇餐饮有限公司改正违反大气污染防治管理制度违法行为决定书 （【2018】Z44号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月17日', 'announcementCode': '京环保责改字〔2018〕Z44\xa0号', 'facts': '我局执法人员于2018年8月23日对你单位经营的位于北京市海淀区暂安处1号A5区2层、3层的北京三湘汇餐饮有限公司进行了现场检查，发现你单位安装有1台油烟净化器，位于四楼楼顶平台，排放烟道上未设置监测孔,无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京三湘汇餐饮有限公司\n\u3000\u3000法定代表人：吕明亮\n\u3000\u3000地址：北京市海淀区暂安处1号A5区2层、3层', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c09f9bf8d0d3a5e4727'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842826/index.html
+存入parsed_data
+{'announcementTitle': '责令北京木火乡村餐饮管理有限公司改正违法行为决定书 （【2018】Z48号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月17日', 'announcementCode': '京环保责改字〔2018〕Z48\xa0号', 'facts': '我局执法人员于2018年8月26日对你单位经营的位于北京市丰台区云岗路199号的北京木火乡村餐饮管理有限公司进行了现场检查，发现你单位安装有1台油烟净化器，位于二楼墙体外侧，排放烟道上未设置监测孔,无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京木火乡村餐饮管理有限公司\n\u3000\u3000法定代表人：王明力\n\u3000\u3000地址：北京市丰台区云岗路199号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c0af9bf8d0d3a5e4729'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842822/index.html
+存入parsed_data
+{'announcementTitle': '责令北京回龙观鑫凤泰隆火锅店改正违法行为决定书（〔2018〕Z58号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年10月29日', 'announcementCode': '京环保责改字〔2018〕Z58 号', 'facts': '我局于2018年9月25日对你单位位于北京市昌平区回龙观镇二拨子商业街南排11号的北京回龙观鑫凤泰隆火锅店进行检查，发现你单位油烟净化器位于二楼楼顶，油烟净化设施排放烟道上未按照规定要求设置采样监测口和监测平台，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京回龙观鑫凤泰隆火锅店\n\u3000\u3000法定代表人：吴海凤\n\u3000\u3000地址：北京市昌平区回龙观镇二拨子商业街南排11号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，依照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）要求设置采样监测平台和监测口，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c0af9bf8d0d3a5e472b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842818/index.html
+存入parsed_data
+{'announcementTitle': '责令北京回龙观八杆旗酒家改正违法行为决定书（〔2018〕Z60号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2018〕Z60号', 'facts': '我局于2018年9月25日对你单位位于北京市昌平区回龙观镇二拨子村平房的北京回龙观八杆旗酒家进行了检查，发现你单位油烟净化器位于二楼楼顶，油烟净化设施排放烟道上未按规范要求设置采样监测口和监测平台，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京回龙观八杆旗酒家\n\u3000\u3000法定代表人：赵宝利\n\u3000\u3000地址：北京市昌平区回龙观镇二拨子村平房', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，依照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）要求设置采样监测平台和监测口，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c0bf9bf8d0d3a5e472d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842814/index.html
+存入parsed_data
+{'announcementTitle': '责令北京海淀云轩美味餐厅改正违反大气污染防治管理制度违法行为决定书（【2018】Z47号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月17日', 'announcementCode': '京环保责改字〔2018〕Z47 号', 'facts': '我局于2018年8月31日对你单位经营的北京云轩美味餐厅进行了现场调查，发现你单位中餐后厨及烧烤架油烟净化系统屋顶排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京海淀云轩美味餐厅（个体）\n\u3000\u3000经营者：宋志云\n\u3000\u3000地址：北京市海淀区学院南路17号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c0bf9bf8d0d3a5e472f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842810/index.html
+存入parsed_data
+{'announcementTitle': '责令北京地大彩印有限公司改正违法行为决定书（〔2018〕Z42号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月17日', 'announcementCode': '京环保责改字〔2018〕Z42号', 'facts': '我局于2018年8月19日对你单位位于北京市顺义区空港工业区B区安庆大街9号北京地大彩印有限公司进行了调查，发现你单位印刷车间废气处理设施安装在印刷车间楼顶，距离二楼地面距离约为4米，设置了到达印刷车间监测平台的钢直梯，不符合《固定污染源监测点位设置技术规范》（DB 11/1195-2015）中“监测平台与坠落高度基准面之间距离超过2米，不应设置钢直梯到达监测平台，应安装分段钢斜梯、转梯或电梯到达监测平台”的相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京地大彩印有限公司\n\u3000\u3000法定代表人：钱招朋\n\u3000\u3000地址：北京市顺义区空港工业区B区安庆大街9号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起六十日内，依照《固定污染源监测点位设置技术规范》（DB11/ 1195-2015）要求设置废气监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c0cf9bf8d0d3a5e4731'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842806/index.html
+存入parsed_data
+'NoneType' object has no attribute 'group'
+{'announcementTitle': '责令北京大发正大有限公司改正违法行为决定书（〔2018〕Z51号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月21日', 'announcementCode': '京环保责改字〔2018〕Z51号', 'facts': '我局于2018年8月24日对你单位位于北京市顺义区杨镇杜庄村北的北京大发正大有限公司进行现场检查，发现你单位将约6吨废弃的液氨排入为应急使用的泄氨池中。按照《危险化学品品目录》，液氨属于危险化学品，按照《国家危险废物名录》，废弃的危险化学品属于危险废物。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京大发正大有限公司\n\u3000\u3000法定代表人：于建平\n\u3000\u3000地址：北京市顺义区杨镇杜庄村北', 'punishmentBasement': '', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起六十日内，依照《固定污染源监测点位设置技术规范》（DB11/ 1195-2015）要求设置废气监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c0cf9bf8d0d3a5e4733'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/842542/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市北水嘉伦水产品市场有限责任公司改正违法行为决定书[2018]Y9号', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年10月31日', 'announcementCode': '[2018]Y9号', 'facts': '我局于2018年10月25日对你公司位于北京市丰台区新发地银地西路18号的储存现场进行了检查。你公司主要从事生鲜储备，使用液氨进行制冷，日常储存量约30吨，属于环境风险企业。检查发现你单位没有开展环境安全隐患排查治理工作，无隐患排查治理档案。以上属于未按规定开展环境安全隐患排查治理工作，建立隐患排查治理档案的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市北水嘉伦水产品市场有限责任公司\n\u3000\u3000法定代表人：杜慧\n\u3000\u3000地址：北京市丰台区新发地银地西路18号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第十条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第二项的规定，责令你单位停止违法行为，自收到本决定书之日起一个月内，建立环境安全隐患排查治理制度，开展环境安全隐患排查治理工作，建立隐患排查治理档案。并将整改情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c0df9bf8d0d3a5e4735'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/841417/index.html
+存入parsed_data
+{'announcementTitle': '责令北京金隅琉水环保科技有限公司改正违法行为决定书（[2018]Y8号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年10月25日', 'announcementCode': '[2018]Y8号', 'facts': '我局于2018年10月18日对你公司位于北京市房山区琉璃河车站前街1号的生产现场进行了检查。你公司主要从事水泥制造，使用浓度为20%的氨水进行烟气脱硝，日常储存量约有50吨，年使用量约3000吨，属于环境风险企业。检查发现你单位没有开展环境安全隐患排查治理工作，无隐患排查治理档案。以上属于未按规定开展环境安全隐患排查治理工作，建立隐患排查治理档案的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京金隅琉水环保科技有限公司\n\u3000\u3000法定代表人：唐高\n\u3000\u3000地址：北京市房山区琉璃河车站前街1号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第十条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第二项的规定，责令你单位停止违法行为，自收到本决定书之日起一个月内，建立环境安全隐患排查治理制度，开展环境安全隐患排查治理工作，建立隐患排查治理档案。并将整改情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c0ef9bf8d0d3a5e4737'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/841413/index.html
+存入parsed_data
+{'announcementTitle': '责令北京飞行博达电子有限公司改正违法行为决定书（[2018]Y7号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年10月25日', 'announcementCode': '[2018]Y7号', 'facts': '我局于2018年10月9日对你公司位于北京市平谷区马坊工业区西区316号的生产现场进行了检查。你公司主要从事太阳能电池生产，使用液氨为生产原料，日常储存量0.44吨，年使用量约5吨，属于环境风险企业。检查发现你单位没有开展环境安全隐患排查治理工作，无隐患排查治理档案；没有进行突发环境事件应急知识和技能培训，无培训记录。以上属于未按规定开展环境安全隐患排查治理工作，建立隐患排查治理档案；未按规定开展突发环境事件应急培训，如实记录培训情况的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京飞行博达电子有限公司\n\u3000\u3000法定代表人：唐飞\n\u3000\u3000地址：北京市平谷区马坊工业区西区316号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第十条、第十九条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第二项、第四项的规定，责令你单位停止违法行为，自收到本决定书之日起一个月内，建立环境安全隐患排查治理制度，开展环境安全隐患排查治理工作，建立隐患排查治理档案；将突发环境事件应急培训纳入单位工作计划，对从业人员定期进行突发环境事件应急知识和技能培训，建立培训档案，如实记录培训的时间、内容、参加人员等信息。并将整改情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c0ef9bf8d0d3a5e4739'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838601/index.html
+存入parsed_data
+{'announcementTitle': '责令新欧中联餐饮管理（北京）有限公司纽约客第二西餐分店改正违法行为决定书（京环保责改字〔20...', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z23号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上二层L2006号的餐饮经营场所进行检查，发现你单位有灶头4个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：新欧中联餐饮管理（北京）有限公司\n\u3000\u3000纽约客第二西餐分店\n\u3000\u3000负责人：颜德美\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上二层L2006号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c0ff9bf8d0d3a5e473b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838597/index.html
+存入parsed_data
+{'announcementTitle': '责令西藏汉拿山餐饮管理有限公司北京南环路分店改正违法行为决定书（京环保责改字〔2018〕Z18号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z18号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上六层L6005号的餐饮经营场所进行检查，发现你单位有灶头2个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求的规定设置采样监测点位。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：西藏汉拿山餐饮管理有限公司\n\u3000\u3000北京南环路分店\n\u3000\u3000负责人：李云哲\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上六层L6005号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c10f9bf8d0d3a5e473d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838593/index.html
+存入parsed_data
+{'announcementTitle': '责令上海巴贝拉意舟餐饮管理有限公司北京市昌平店改正违法行为决定书（京环保责改字〔2018〕Z15号...', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2018〕Z15号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼B1-003的餐饮经营场所进行检查，发现你单位有灶头2个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：上海巴贝拉意舟餐饮管理有限公司\n  \n\n   \u3000\u3000北京市昌平店北京市昌平店\n  \n\n   \u3000\u3000负责人：贝尔•西蒙•理查德\n  \n\n   \u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼B1-003', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位、监测平台和监测点位标志牌，并将改正情况书面报告我局。\xa0\n  \n\n   \u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c10f9bf8d0d3a5e473f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838589/index.html
+存入parsed_data
+{'announcementTitle': '责令权金城企业管理（北京）有限公司昌平分公司改正违法行为决定书（京环保责改字〔2018〕Z13号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2018〕Z13号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼五层L5011B、5012的餐饮经营场所进行检查，发现你单位有餐位72个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：权金城企业管理（北京）有限公司\n  \n\n   \u3000\u3000昌平分公司\n  \n\n   \u3000\u3000负责人：卢利民\n  \n\n   \u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼五层L5011B、5012', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\xa0\n  \n\n   \u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c11f9bf8d0d3a5e4741'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838585/index.html
+存入parsed_data
+{'announcementTitle': '责令兰州市城关区阿西娅餐厅北京苏州街食府改正违法行为决定书（〔2018〕Z30号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年6月22日', 'announcementCode': '', 'facts': '我局于2018年6月9日对你单位位于北京市海淀区苏州街29号平房的兰州市城关区阿西娅餐厅北京苏州街食府进行检查，发现你单位中餐厨房有灶头6个，油烟集中收集经过2台餐饮油烟净化器处理后排放，但排放烟道上均未设置监测孔，无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）中废气监测点位设置的相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：兰州市城关区阿西娅餐厅北京苏州街食府\n\u3000\u3000法定代表人：赵玉霞\n\u3000\u3000地址：北京市海淀区苏州街29号平房', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c11f9bf8d0d3a5e4743'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838581/index.html
+存入parsed_data
+{'announcementTitle': '责令港品悦（北京）餐饮管理有限公司改正违法行为决定书（京环保责改字〔2018〕Z25号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2018〕Z25号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼05层501号005号的餐饮经营场所进行检查，发现你单位有灶头5个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：港品悦（北京）餐饮管理有限公司\n  \n\n   \u3000\u3000法定代表人：孟仄花\n  \n\n   \u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼05层501号005号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\xa0\n  \n\n   \u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c1cf9bf8d0d3a5e4745'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838577/index.html
+存入parsed_data
+{'announcementTitle': '责令呷哺呷哺餐饮管理有限公司改正违反大气污染防治管理制度违法行为决定书(〔2018〕Z4号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年4月25日', 'announcementCode': '', 'facts': '我局于2018年4月23日对你单位位于大兴区黄村镇物顺南路9号的呷哺呷哺餐饮管理有限公司进行了调查，发现你单位锅底熬制车间、味噌熬制车间废气处理设施安装在车间顶部，距离地面距离分别为8米和2.5米，分别设置了到达锅底熬制车间和味噌熬制车间监测平台的钢直梯，不符合《固定污染源监测点位设置技术规范》（DB 11/1195-2015）中“监测平台与坠落高度基准面之间距离超过2米，不应设置钢直梯到达监测平台，应安装分段钢斜梯、转梯或电梯到达监测平台”的相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：呷哺呷哺餐饮管理有限公司\n\u3000\u3000法定代表人：杨淑玲\n\u3000\u3000地址：北京市大兴区黄村镇孙村组团物顺南路北侧', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起三十日内，依照《固定污染源监测点位设置技术规范》（DB11/ 1195-2015）要求设置废气监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c1cf9bf8d0d3a5e4747'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838573/index.html
+存入parsed_data
+{'announcementTitle': '责令昌兴味诚（北京）餐饮管理有限公司改正违法行为决定书（京环保责改字〔2018〕Z5号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z5号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上六层L6007A号的餐饮经营场所进行检查，发现你单位有灶头2个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：昌兴味诚（北京）餐饮管理有限公司\n\u3000\u3000法定代表人：佟雨泽\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上六层L6007A号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c1df9bf8d0d3a5e4749'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838569/index.html
+存入parsed_data
+{'announcementTitle': '责令北京庄德餐饮管理有限责任公司昌平分公司改正违法行为决定书（京环保责改字〔2018〕Z22号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z22号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区南环路10号院1号楼金隅万科广场B1002号的餐饮经营场所进行检查，发现你单位有灶头2个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京庄德餐饮管理有限责任公司\n\u3000\u3000昌平分公司\n\u3000\u3000法定代表人：鲁统云\n\u3000\u3000地址：北京市昌平区南环路10号院1号楼金隅万科广场B1002号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c1df9bf8d0d3a5e474b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838565/index.html
+存入parsed_data
+{'announcementTitle': '责令北京正皓昀餐饮管理有限公司昌平第一快餐分店改正违法行为决定书（京环保责改字〔2018〕Z17号...', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z17号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼5层L5011A号的餐饮经营场所进行检查，发现你单位有灶头2个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京正皓昀餐饮管理有限公司\n\u3000\u3000昌平第一快餐分店\xa0\xa0\xa0\xa0法定代表人：周先兰\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼5层L5011A号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c20f9bf8d0d3a5e474d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838561/index.html
+存入parsed_data
+{'announcementTitle': '责令北京煜兴楼西安风味饭庄改正违法行为决定书（〔2018〕Z2号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2018年4月12日对你单位位于北京市丰台区方庄芳群园一区A一号的北京煜兴楼西安风味饭庄进行检查，发现你单位有1台餐饮油烟净化设施，安装于4层楼顶平台，排放烟道上未设置监测孔，无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）中废气监测点位设置的相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京煜兴楼西安风味饭庄\n  \n\n   \u3000\u3000法定代表人：邵宏宇\n  \n\n   \u3000\u3000地址：北京市丰台区方庄芳群园一区A一号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十五条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十九条第二款的规定，责令你单位于2018年6月30日前改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置监测点位，并将改正情况书面报告我局。\xa0\n  \n\n   \u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c20f9bf8d0d3a5e474f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838557/index.html
+存入parsed_data
+{'announcementTitle': '责令北京瀛厚德食品有限责任公司改正违法行为决定书（〔2018〕Z37号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2018年8月16日对你单位位于昌平区百善镇狮子营村南的北京瀛厚德食品有限责任公司进行了调查，发现你单位烤鸭车间有2套静电式废气处理设施安装在车间顶部，距离地面距离为4米，仅设置到达烤鸭车间监测平台的钢直梯，不符合《固定污染源监测点位设置技术规范》（DB 11/1195-2015）中“监测平台与坠落高度基准面之间距离超过2米，不应设置钢直梯到达监测平台，应安装分段钢斜梯、转梯或电梯到达监测平台”的相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京瀛厚德食品有限责任公司\n\u3000\u3000法定代表人：皮少武\n\u3000\u3000地址：北京市昌平区百善镇狮子营村南', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起三十日内，依照《固定污染源监测点位设置技术规范》（DB11/ 1195-2015）要求设置废气监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c21f9bf8d0d3a5e4751'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838553/index.html
+存入parsed_data
+{'announcementTitle': '责令北京一宽餐饮文化管理有限公司昌平南环路店改正违法行为决定书（京环保责改字〔2018〕Z9号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z9号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上六层L6003号的餐饮经营场所进行检查，发现你单位有灶头3个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京一宽餐饮文化管理有限公司昌平南环路店\n\u3000\u3000法定代表人：钱俊\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上六层L6003号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c21f9bf8d0d3a5e4753'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838549/index.html
+存入parsed_data
+{'announcementTitle': '责令北京心正意诚餐饮管理有限公司第九分公司改正违法行为决定书（京环保责改字〔2018〕Z7号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z7号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上六层L6008号的餐饮经营场所进行检查，发现你单位有灶头4个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京心正意诚餐饮管理有限公司\n\u3000\u3000第九分公司\n\u3000\u3000负责人：赵晗\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上六层L6008号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c22f9bf8d0d3a5e4755'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838545/index.html
+存入parsed_data
+{'announcementTitle': '责令北京祥和大众餐饮管理有限责任公司改正违法行为决定书（〔2018〕Z31号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年7月3日', 'announcementCode': '', 'facts': '我局于2018年6月21日对你单位位于北京市海淀区苏州街29号45号楼一层部分及二层的北京祥和大众餐饮管理有限责任公司进行了调查，发现你单位在苏州街29号45号楼经营中餐，营业面积约700多平方米，油烟集中收集后经二层楼顶的1台油烟净化器处理后排放，但你单位排放烟道上未设置监测孔，无监测点位标志牌；无监测梯架，不能保障安全通往监测平台，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）中废气监测点位设置的相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京祥和大众餐饮管理有限责任公司\n\u3000\u3000法定代表人：徐倩\n\u3000\u3000地址：北京市海淀区苏州街29号45号楼一层部分及二层', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c25f9bf8d0d3a5e4757'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838541/index.html
+存入parsed_data
+{'announcementTitle': '责令北京夕阳红精品川菜四川会馆有限公司分公司改正违法行为决定书（京环保责改字〔2018〕Z26号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月24日', 'announcementCode': '京环保责改字〔2018〕Z26号', 'facts': '我局于2018年5月6日对你单位位于北京市朝阳区曙光西里甲6号院10号楼的餐饮经营场所进行检查，发现你单位有灶头10个，设置油烟处理装置2台，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京夕阳红精品川菜四川会馆有限公司分公司\n\u3000\u3000法定代表人：潘涛\n\u3000\u3000地址：北京市朝阳区曙光西里甲6号院10号楼', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c26f9bf8d0d3a5e4759'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838537/index.html
+存入parsed_data
+{'announcementTitle': '责令北京炭之味餐饮管理有限公司改正违法行为决定书（京环保责改字〔2018〕Z21号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z21号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼五层L5018C的餐饮经营场所进行检查，发现你单位有灶头4个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京炭之味餐饮管理有限公司\n\u3000\u3000法定代表人：焦珂\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼五层L5018C', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c26f9bf8d0d3a5e475b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838533/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市紫竹乡村餐厅改正违反大气污染防治管理制度违法行为决定书（〔2018〕Z39号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月3日', 'announcementCode': '', 'facts': '我局执法人员于2018年7月27日对你单位经营的位于北京市海淀区魏公村路304号的北京市紫竹乡村餐厅进行了现场调查，发现你单位中餐后厨油烟净化装置屋顶排放烟道上未设置监测孔、无监测点位标志牌，无监测梯架，不能保障监测人员安全通往监测平台，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市紫竹乡村餐厅\n\u3000\u3000法定代表人：曹建华\n\u3000\u3000地址：北京市海淀区魏公村304号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c27f9bf8d0d3a5e475d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838529/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市正一味快餐管理有限公司昌平第七快餐分店改正违法行为决定书（京环保责改字〔2018〕Z1...', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z16号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼04层401内四层L4001的餐饮经营场所进行检查，发现你单位有灶头1个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市正一味快餐管理有限公司\n\u3000\u3000昌平第七快餐分店\n\u3000\u3000负责人：周先兰\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼04层401内四层L4001', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c2bf9bf8d0d3a5e475f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838525/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市富国饭店改正违法行为决定书（〔2017〕Z2号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2017年12月6日对你单位位于北京市西城区富国街2号院的供热设施进行检查，发现两台直燃机组和两台燃气锅炉均未按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）要求设置监测点位，无监测（采样）平台等设施，无法开展污染物排放监测工作。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市富国饭店\n  \n\n   \u3000\u3000法定代表人：杜德志\n  \n\n   \u3000\u3000地址： 北京市西城区富国街2号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十五条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十九条第二款的规定，责令你单位于2018年4月30日前改正违法行为，按照规范要求设置监测点位。\xa0\n  \n\n   \u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c2bf9bf8d0d3a5e4761'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838521/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市标致家具有限责任公司改正违法行为决定书（京环保责改字〔2018〕Z34号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年7月10日', 'announcementCode': '京环保责改字〔2018〕Z34号', 'facts': '我局于2018年6月19日对你单位位于北京市大兴区生物医药基地天水街12号的北京市标致家具有限责任公司进行了调查，你单位生产车间设置了废气处理设施并设有监测孔，但未设置采样监测平台，也未设置安全通向监测平台的监测梯架，不符合《固定污染源监测点位设置技术规范》（DB 11/1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市标致家具有限责任公司\n\u3000\u3000法定代表人：孙守江\n\u3000\u3000地址：北京市大兴区生物医药基地天水街12号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起30日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c2cf9bf8d0d3a5e4763'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838517/index.html
+存入parsed_data
+{'announcementTitle': '责令北京世峰小吃店改正违法行为决定书（京环保责改字〔2018〕Z11号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z11号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区南环路10号院1号楼5层L5018D的餐饮经营场所进行检查，发现你单位有灶头1个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京世峰小吃店\n\u3000\u3000法定代表人：胡世峰\n\u3000\u3000地址：北京市昌平区南环路10号院1号楼5层L5018D', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置废气采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c2cf9bf8d0d3a5e4765'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838513/index.html
+存入parsed_data
+{'announcementTitle': '责令北京萨莉亚餐饮管理有限公司昌平南环路店改正违法行为决定书（京环保责改字〔2018〕Z8号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z8号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上四层L4008号的餐饮经营场所进行检查，发现你单位有灶头1个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京萨莉亚餐饮管理有限公司昌平南环路店\n\u3000\u3000法定代表人：温献军\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼金隅万科广场地上四层L4008号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位、监测平台和监测点位标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c2df9bf8d0d3a5e4767'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838509/index.html
+存入parsed_data
+{'announcementTitle': '责令北京权品酒店管理有限公司改正违反大气污染防治管理制度违法行为决定书（〔2018〕Z29号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年6月22日', 'announcementCode': '', 'facts': '我局于2018年6月9日对你单位位于北京市海淀区苏州街29号院内平房的北京权品酒店管理有限公司进行了调查，发现你单位中餐后厨有灶头6个，油烟集中收集后经1台餐饮油烟净化设施处理后排放，但排放烟道上未设置监测孔，无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）中废气监测点位设置的相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京权品酒店管理有限公司\n\u3000\u3000法定代表人：刘旭\n\u3000\u3000地址：北京市海淀区苏州街29号院内平房', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c2df9bf8d0d3a5e4769'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838505/index.html
+存入parsed_data
+{'announcementTitle': '责令北京秦娃餐饮有限公司改正违法行为决定书（京环保责改字〔2018〕Z20号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2018〕Z20号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼六层L6006号的餐饮经营场所进行检查，发现你单位有灶头5个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京秦娃餐饮有限公司\n  \n\n   \u3000\u3000法定代表人：陈雷\n  \n\n   \u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼六层L6006号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\xa0\n  \n\n   \u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c2ef9bf8d0d3a5e476b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838501/index.html
+存入parsed_data
+{'announcementTitle': '责令北京苗乡楼餐饮有限公司第九分公司改正违法行为决定书（京环保责改字〔2018〕Z6号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z6号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院悦荟万科广场地上五层013号商铺的餐饮经营场所进行检查，发现你单位有灶头3个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京苗乡楼餐饮有限公司第九分公司\n\u3000\u3000法定代表人：谢伟\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院悦荟万科广场地上五层013号商铺', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位、监测平台和监测点位标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c2ef9bf8d0d3a5e476d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838497/index.html
+存入parsed_data
+{'announcementTitle': '责令北京蛮横天恩餐厅（有限合伙）改正违法行为决定书（京环保责改字〔2018〕Z24号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z24号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼6层6009室的餐饮经营场所进行了调查，发现你单位有灶头7个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京蛮横天恩餐厅（有限合伙）\n\u3000\u3000执行事务合伙人：赵军\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼6层6009室', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c2ff9bf8d0d3a5e476f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838493/index.html
+存入parsed_data
+{'announcementTitle': '责令北京麦当劳食品有限公司南环路餐厅改正违法行为决定书（京环保责改字〔2018〕Z14号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z14号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区南环路10号院1号楼金隅万科广场地下一层B1006号的餐饮经营场所进行检查，发现你单位有灶头2个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京麦当劳食品有限公司南环路餐厅\n\u3000\u3000负责人：周炜\n\u3000\u3000地址：北京市昌平区南环路10号院1号楼金隅万科广场地下一层B1006号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c2ff9bf8d0d3a5e4771'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838489/index.html
+存入parsed_data
+{'announcementTitle': '责令北京宽店串串香餐饮管理有限责任公司改正违法行为决定书（京环保责改字〔2018〕Z12号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月10日', 'announcementCode': '京环保责改字〔2018〕Z12号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼悦荟万科广场四层L4047号的餐饮经营场所进行检查，发现你单位有灶头2个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京宽店串串香餐饮管理有限责任公司\n\u3000\u3000法定代表人：盛杰\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼悦荟万科广场四层L4047号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c30f9bf8d0d3a5e4773'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838485/index.html
+存入parsed_data
+{'announcementTitle': '责令北京肯德基有限公司平西府餐厅改正违反大气污染防治管理制度违法行为决定书（〔2018〕Z3号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年4月20日', 'announcementCode': '', 'facts': '我局于2018年4月4日对你单位位于北京市昌平区北七家镇王府街21号-2首层西侧的北京肯德基有限公司平西府餐厅进行检查，发现你单位餐饮油烟净化设施放置于一层冷库上方的吊顶内，油烟净化设施排放烟道上未设置监测孔，无监测点位标志牌，无监测梯架，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京肯德基有限公司平西府餐厅\n\u3000\u3000法定代表人：刘永涛\n\u3000\u3000地址：北京市昌平区北七家镇王府街21号-2首层西侧', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，依照《固定污染源监测点位设置技术规范》（DB11/ 1195-2015）要求设置监测点位和采样监测平台，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c3af9bf8d0d3a5e4775'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838481/index.html
+存入parsed_data
+{'announcementTitle': '责令北京金珍园餐饮中心改正违反大气污染防治管理制度违法行为决定书（〔2018〕Z38号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月3日', 'announcementCode': '', 'facts': '我局执法人员于2018年8月11日对你单位经营的位于北京市大兴区旧宫镇科技路2号的北京金珍园餐饮中心进行了现场调查，发现你单位后厨安装的2台油烟净化器分别位于员工宿舍窗户旁和钻石包厢窗户旁，均未设置监测平台，无固定监测梯架，不能保障执法和监测人员安全通往监测平台，无法判断是否设置监测孔及监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京金珍园餐饮中心\n\u3000\u3000法定代表人：寇建英\n\u3000\u3000地址：北京市大兴区旧宫镇科技路2号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c3bf9bf8d0d3a5e4777'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838477/index.html
+存入parsed_data
+{'announcementTitle': '责令北京佳信达欣艺术印刷有限公司改正违反大气污染防治管理制度违法行为决定书(〔2018〕Z32号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年7月5日', 'announcementCode': '', 'facts': '我局于2018年6月19日对你单位位于大兴区京开路庞各庄镇西中堡村的北京佳信达欣艺术印刷有限公司进行了调查，你单位印刷车间年印刷书刊约50万册，共有7台印刷机，有2套活性炭废气处理设施并设有监测孔，但未设置采样监测平台，也未设置安全通向监测平台的监测梯架，不符合《固定污染源监测点位设置技术规范》（DB 11/1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京佳信达欣艺术印刷有限公司\n\u3000\u3000法定代表人：陈雅琴\n\u3000\u3000地址：北京市大兴区京开路庞各庄镇西中堡村', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起三十日内，依照《固定污染源监测点位设置技术规范》（DB11/1195-2015）要求设置废气采样监测点位，并将改正情况书面报告我局。 \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c3bf9bf8d0d3a5e4779'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838473/index.html
+存入parsed_data
+{'announcementTitle': '责令北京冀贵汽车贸易有限公司改正违反大气污染防治管理制度违法行为决定书(〔2018〕Z41)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2018年8月21日对你单位位于北京市北京经济技术开发区东环北路北1号的北京冀贵汽车贸易有限公司进行了调查，你单位从事汽车销售及维修服务，年产维修量约2万台次，共有2座烤漆房，安装有活性炭废气处理设施并设有监测孔，但未设置采样监测平台，未设置安全通向监测平台的监测梯架，也未设置监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/1195—2015）中废气监测点位和标志牌设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京冀贵汽车贸易有限公司\n  \n\n   \u3000\u3000法定代表人：曾庆军\n  \n\n   \u3000\u3000地址：北京市北京经济技术开发区东环北路北1号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起三十日内，依照《固定污染源监测点位设置技术规范》（DB11/1195-2015）要求设置废气采样监测点位和监测点位标志牌并将改正情况书面报告我局。\n  \n\n   \u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c3cf9bf8d0d3a5e477b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838469/index.html
+存入parsed_data
+{'announcementTitle': '责令北京黄记煌投资管理有限公司昌平第十二分店改正违反大气污染防治管理制度违法行为决定书（〔...', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2018年6月29日对你单位位于北京市昌平区南环路10号院1号楼金隅万科广场地上五层L5006号的北京黄记煌投资管理有限公司昌平第十二分店进行检查，发现你单位位于后厨天花板内的餐饮油烟净化设施排放烟道上未设置监测孔，无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京黄记煌投资管理有限公司昌平第十二分店\n\u3000\u3000法定代表人：焦珂\n\u3000\u3000地址：北京市昌平区南环路10号院1号楼金隅万科广场地上五层L5006号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，依照《固定污染源监测点位设置技术规范》（DB11/ 1195-2015）要求设置监测点位和监测点位标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c3df9bf8d0d3a5e477d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838465/index.html
+存入parsed_data
+{'announcementTitle': '责令北京古盛天轩餐饮管理有限公司改正违反大气污染防治管理制度违法行为决定书（〔2018〕Z36号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年7月24日', 'announcementCode': '', 'facts': '我局于2018年7月17日对你单位经营的中国兰州传统牛肉拉面串吧进行了现场调查，发现后厨及烧烤屋油烟均经净化器处理后排放，两套排放烟道均未设置监测孔，无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京古盛天轩餐饮管理有限公司\n\u3000\u3000法定代表人：马占义\n\u3000\u3000地址：北京市海淀区建西苑北里14号楼1层南数第2间', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位和标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c3df9bf8d0d3a5e477f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838461/index.html
+存入parsed_data
+{'announcementTitle': '责令北京福田康明斯发动机有限公司改正违法行为决定书（〔2018〕Z40号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月3日', 'announcementCode': '', 'facts': '我局于2018年8月14日对你单位位于北京市昌平区沙河镇沙阳路15-1号的北京福田康明斯发动机有限公司进行了调查，发现你单位老厂区食堂油烟净化设施和废气监测平台均位于食堂顶部，监测平台与坠落高度基准面之间距离超过2m，你单位设置了2.2米高的固定式钢直梯到达，不符合《固定污染源监测点位设置技术规范》（DB 11/1195-2015）中“监测平台与坠落高度基准面之间距离超过2米，不应设置钢直梯到达监测平台，应安装分段钢斜梯、转梯或电梯到达监测平台”的相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京福田康明斯发动机有限公司\n\u3000\u3000法定代表人：王美臣\n\u3000\u3000地址：北京市昌平区沙河镇沙阳路15-1号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起三十日内，依照《固定污染源监测点位设置技术规范》（DB11/ 1195-2015）要求设置废气监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c3ef9bf8d0d3a5e4781'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838457/index.html
+存入parsed_data
+{'announcementTitle': '责令北京二东家城一锅餐厅改正违法行为决定书（〔2018〕Z27）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2018年5月27日对你单位位于北京市昌平区北七家镇名佳花园三区22栋商1号的北京二东家城一锅餐厅进行检查，发现你单位餐饮油烟净化设施排放烟道上未设置监测孔，无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京二东家城一锅餐厅\n\u3000\u3000法定代表人：苏朝东\n\u3000\u3000地址：北京市昌平区北七家镇名佳花园三区22栋商1号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内，依照《固定污染源监测点位设置技术规范》（DB11/ 1195-2015）要求设置监测点位和采样监测平台，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c3ef9bf8d0d3a5e4783'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838453/index.html
+存入parsed_data
+{'announcementTitle': '责令北京东方慧咨询有限公司改正违反大气污染防治管理制度违法行为决定书（〔2018〕Z35号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年7月24日', 'announcementCode': '', 'facts': '我局于2018年7月17日对你单位经营的西直门大众串吧进行了现场调查，发现你单位中餐后厨及烧烤屋油烟净化系统屋顶排放烟道上未设置监测孔、无监测点位标志牌，无监测梯架，不能保障监测人员安全通往监测平台，不符合《固定污染源监测点位设置技术规范》（DB11/1195-2015）相关技术要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京东方慧咨询有限公司\n\u3000\u3000法定代表人：曹海平\n\u3000\u3000地址：北京市海淀区金沟河路5号805楼', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内改正违法行为，按照《固定污染源监测点位设置技术规范》（DB11/1195-2015）的相关规定设置废气监测点位及标志牌，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c3ff9bf8d0d3a5e4785'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838449/index.html
+存入parsed_data
+{'announcementTitle': '责令北京滇之辉餐饮有限公司改正违法行为决定书（京环保责改字〔2018〕Z19号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2018〕Z19号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼悦荟万科广场地上六层L6002号的餐饮经营场所进行检查，发现你单位有灶头2个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京滇之辉餐饮有限公司\n  \n\n   \u3000\u3000法定代表人：彭超\n  \n\n   \u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼悦荟万科广场地上六层L6002号', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\xa0\n  \n\n   \u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c3ff9bf8d0d3a5e4787'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838445/index.html
+存入parsed_data
+{'announcementTitle': '责令北京得月坊餐饮有限公司改正违反大气污染防治管理制度违法行为决定书（〔2018〕Z28）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2018年5月27日对你单位位于北京市昌平区北七家镇名佳花园三区22号楼商2的北京得月坊餐饮有限公司进行检查，发现你单位餐饮油烟净化设施排放烟道上未设置监测孔，无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置相关要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京得月坊餐饮有限公司公司\n\u3000\u3000法定代表人：付洪涛\n\u3000\u3000地址：北京市昌平区北七家镇名佳花园三区22号楼商2', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起60日之内，依照《固定污染源监测点位设置技术规范》（DB11/ 1195-2015）要求设置监测点位和采样监测平台，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c40f9bf8d0d3a5e4789'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838441/index.html
+存入parsed_data
+{'announcementTitle': '责令北京城建房地产开发有限公司改正违法行为决定书（〔2017〕Z1号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2017年5月5日对你单位位于北京市朝阳区的东坝乡南二街限价商品住房项目进行调查，该项目主要建设内容为住宅及配套公建，总建筑面积35.3万平方米，总投资约23.1亿元。该项目已于2014年7月建成，2014年11月完成入住，但至今尚未办理环保验收手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京城建房地产开发有限公司\n\u3000\u3000法定代表人：郑福臣\n\u3000\u3000地址：北京市西城区马甸南村4号', 'punishmentBasement': '你单位的上述行为违反了《建设项目环境保护管理条例》第二十三条的规定', 'punishmentDecision': '依据《建设项目环境保护管理条例》第二十八条的规定，责令你单位停止该项目使用，依法办理环保验收手续后方可正式投入使用。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。如不改正我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c40f9bf8d0d3a5e478b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/838437/index.html
+存入parsed_data
+{'announcementTitle': '责令北京昌盛餐饮有限公司改正违法行为决定书（京环保责改字〔2018〕Z10号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年5月9日', 'announcementCode': '京环保责改字〔2018〕Z10号', 'facts': '我局于2018年4月12日对你单位位于北京市昌平区城北街道南环路10号院1号楼5层L5018A的餐饮经营场所进行检查，发现你单位有灶头3个，油烟集中收集、净化后在楼顶排放，你单位餐饮油烟净化设施排放烟道上未设置监测孔、无监测点位标志牌，不符合《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）中废气监测点位设置技术要求规定。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京昌盛餐饮有限公司\n\u3000\u3000法定代表人：朱维芬\n\u3000\u3000地址：北京市昌平区城北街道南环路10号院1号楼5层L5018A', 'punishmentBasement': '你单位的上述行为违反了《北京市大气污染防治条例》第三十四条第二款的规定', 'punishmentDecision': '依据《北京市大气污染防治条例》第九十六条第二款的规定，责令你单位在收到本决定书之日起15日之内，按照《固定污染源监测点位设置技术规范》（DB 11/ 1195—2015）的相关规定设置采样监测点位，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c41f9bf8d0d3a5e478d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/837970/index.html
+存入parsed_data
+{'announcementTitle': '责令北京通美晶体技术有限公司改正违法行为 决定书（[2018]Y4号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月3日', 'announcementCode': '[2018]Y4号', 'facts': '我局于2018年7月31日对你公司位于北京市通州区工业开发区东二街4号的生产现场进行了检查。你公司主要从事半导体材料生产，使用硫酸、乙酸、氨水、氢氧化钠等30余种危险化学品，属于环境风险企业。检查发现你单位没有开展环境安全隐患排查治理工作，无隐患排查治理档案，属于未按规定开展环境安全隐患排查治理工作，建立隐患排查治理档案的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京通美晶体技术有限公司\n\u3000\u3000法定代表人：莫里斯·杨\n\u3000\u3000地址：北京市通州区工业开发区东二街4号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第十条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第二项的规定，责令你单位停止违法行为，自收到本决定书之日起一个月内，建立环境安全隐患排查治理制度，开展环境安全隐患排查治理工作，建立隐患排查治理档案，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c41f9bf8d0d3a5e478f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/837958/index.html
+存入parsed_data
+{'announcementTitle': '责令北京一兆鑫腾商贸有限公司改正违法行为决定书（[2018]Y6号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年9月6日', 'announcementCode': '[2018]Y6号', 'facts': '我局于2018年8月21日对你公司位于北京市顺义区南彩镇顺密路后俸伯段6号院4幢的仓储现场进行了检查。你公司主要从事肉类食品存储，使用液氨进行制冷，储存有3吨液氨，属于环境风险企业。检查发现你单位没有开展环境安全隐患排查治理工作，无隐患排查治理档案；没有进行突发环境事件应急知识和技能培训，无培训记录。以上属于未按规定开展环境安全隐患排查治理工作，建立隐患排查治理档案；未按规定开展突发环境事件应急培训，如实记录培训情况的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京一兆鑫腾商贸有限公司\n\u3000\u3000法定代表人：杨连田\n\u3000\u3000地址：北京市顺义区南彩镇顺密路后俸伯段6号院4幢', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第十条、第十九条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第(二)项、第(四)项的规定，责令你单位停止违法行为，自收到本决定书之日起一个月内，建立环境安全隐患排查治理制度，开展环境安全隐患排查治理工作，建立隐患排查治理档案；将突发环境事件应急培训纳入单位工作计划，对从业人员定期进行突发环境事件应急知识和技能培训，建立培训档案，如实记录培训的时间、内容、参加人员等信息。将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c42f9bf8d0d3a5e4791'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/837966/index.html
+存入parsed_data
+{'announcementTitle': '责令北京百嘉宜食品有限公司改正违法行为 决定书（[2018]Y5号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年8月30日', 'announcementCode': '[2018]Y5号', 'facts': '我局于2018年8月15日对你公司位于北京市大兴区祥瑞大街1号的生产现场进行了检查。你公司主要从事食品制作，使用液氨制冷，储存有5吨液氨，属于环境风险企业。检查发现你单位没有开展环境安全隐患排查治理工作，无隐患排查治理档案，属于未按规定开展环境安全隐患排查治理工作，建立隐患排查治理档案的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京百嘉宜食品有限公司\n\u3000\u3000法定代表人：刘建波\n\u3000\u3000地址：北京市大兴区祥瑞大街1号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第十条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第二项的规定，责令你单位停止违法行为，自收到本决定书之日起一个月内，建立环境安全隐患排查治理制度，开展环境安全隐患排查治理工作，建立隐患排查治理档案，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c42f9bf8d0d3a5e4793'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/836390/index.html
+存入parsed_data
+{'announcementTitle': '责令夏晖物流（北京）有限公司改正违法行为决定书（[2018]Y3号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年8月16日', 'announcementCode': '[2018]Y3号', 'facts': '我局于2018年7月18日对你公司位于北京市北京经济技术开发区兴盛街6号的生产现场进行了检查。你公司主要从事冷链运输，使用液氨进行制冷，储存有2.3吨液氨，属于环境风险企业。检查发现你单位没有进行突发环境事件应急知识和技能培训，无培训记录。以上属于未按规定开展突发环境事件应急培训，如实记录培训情况的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：夏晖物流（北京）有限公司\n\u3000\u3000法定代表人：林乐杰\n\u3000\u3000地址：北京市经济技术开发区兴盛街6号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第十九条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第四项的规定，责令你单位停止违法行为，自收到本决定书之日起一个月内，将突发环境事件应急培训纳入单位工作计划，对从业人员定期进行突发环境事件应急知识和技能培训，建立培训档案，如实记录培训的时间、内容、参加人员等信息。并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c43f9bf8d0d3a5e4795'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/835006/index.html
+存入parsed_data
+{'announcementTitle': '责令中国电子科技集团公司第十二研究所改正违法行为决定书（[2018]Y2号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年7月16日', 'announcementCode': '[2018]Y2号', 'facts': '我局于2018年7月3日对你公司位于北京市密云区开发区科技路36号的生产现场进行了检查。你公司主要从事真空开关生产，使用液氨用于生产，每月使用6吨液氨，属于环境风险企业。检查发现你单位没有开展环境安全隐患排查治理工作，无隐患排查治理档案，属于未按规定开展环境安全隐患排查治理工作，建立隐患排查治理档案的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国电子科技集团公司第十二研究所\n\u3000\u3000法定代表人：赵士录\n\u3000\u3000地址：北京市密云区开发区科技路36号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第六条第一款、第十条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第二项的规定，责令你单位停止违法行为，自收到本决定书之日起一个月内，建立环境安全隐患排查治理制度，开展环境安全隐患排查治理工作，建立隐患排查治理档案，将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c43f9bf8d0d3a5e4797'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/834998/index.html
+存入parsed_data
+{'announcementTitle': '责令北京马迭尔食品有限公司改正违法行为决定书（[2018]Y1号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2018年7月16日', 'announcementCode': '[2018]Y1号', 'facts': '我局于2018年7月3日对你公司位于北京市密云区河南寨镇台上村南头道街1号的生产现场进行了检查。你公司主要从事冷冻饮品生产，使用液氨进行制冷，储存有6吨液氨，属于环境风险企业。检查发现你单位没有开展环境安全隐患排查治理工作，无隐患排查治理档案；没有进行突发环境事件应急知识和技能培训，无培训记录。以上属于未按规定开展环境安全隐患排查治理工作，建立隐患排查治理档案；未按规定开展突发环境事件应急培训，如实记录培训情况的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京马迭尔食品有限公司\n\u3000\u3000法定代表人：李永清\n\u3000\u3000地址：北京市密云区河南寨镇台上村南头道街1号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第六条第一款、第十条、第十九条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第二项、第四项的规定，责令你单位停止违法行为，自收到本决定书之日起一个月内，建立环境安全隐患排查治理制度，开展环境安全隐患排查治理工作，建立隐患排查治理档案；将突发环境事件应急培训纳入单位工作计划，对从业人员定期进行突发环境事件应急知识和技能培训，建立培训档案，如实记录培训的时间、内容、参加人员等信息。将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c44f9bf8d0d3a5e4799'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/822680/index.html
+存入parsed_data
+{'announcementTitle': '责令北京二商大红门肉类食品有限公司改正违法行为决定书(〔2017〕Y3号)', 'announcementOrg': '2017年10月25日', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2017年10月19日对你公司位于北京市通州区潞城镇食品工业园区武兴北路一号的生产现场进行了检查。你公司主要从事生猪屠宰及肉类加工，使用液氨进行制冷，储存有10吨液氨。液氨有强烈刺激性气味，具有腐蚀性且容易挥发，泄露容易引发突发环境事件，你单位使用液氨，属于环境风险企业。检查发现你单位未开展突发环境事件风险评估工作，未确定风险等级；你单位称2014年对突发环境事件应急预案进行了备案，但无法提供突发环境事件应急预案文本及备案登记表。以上属于未按规定开展突发环境事件风险评估，确定风险等级；未按规定将突发环境事件应急预案进行备案的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京二商大红门肉类食品有限公司\n\u3000\u3000法定代表人：吴启成\n\u3000\u3000地址：北京市通州区潞城镇食品工业园区武兴北路一号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第六条第一款、第八条、第十三条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第一项、第三项的规定，责令你单位停止违法行为，自收到本决定书之日起两个月内，完成突发环境事件风险评估工作，确定风险等级；在开展突发环境事件风险评估和应急资源调查的基础上制定突发环境事件应急预案，报属地环境保护局备案。并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c45f9bf8d0d3a5e479b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/822676/index.html
+存入parsed_data
+{'announcementTitle': '责令北京二商大红门肉类食品有限公司改正违法行为决定书(〔2017〕Y2号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2017年10月25日', 'announcementCode': '', 'facts': '我局于2017年10月19日对你公司位于北京市通州区潞城镇食品工业园区武兴北路一号的生产现场进行了检查。你公司主要从事生猪屠宰及肉类加工，使用液氨进行制冷，储存有10吨液氨。液氨有强烈刺激性气味，具有腐蚀性且容易挥发，泄露容易引发突发环境事件。你单位使用液氨，属于环境风险企业。检查发现你单位没有开展环境安全隐患排查治理工作，无隐患排查治理档案；没有进行突发环境事件应急知识和技能培训，无培训记录。以上属于未按规定开展环境安全隐患排查治理工作，建立隐患排查治理档案；未按规定开展突发环境事件应急培训，如实记录培训情况的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京二商大红门肉类食品有限公司\n\u3000\u3000法定代表人：吴启成\n\u3000\u3000地址：北京市通州区潞城镇食品工业园区武兴北路一号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第六条第一款、第十条、第十九条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第二项、第四项的规定，责令你单位停止违法行为，自收到本决定书之日起一个月内，建立环境安全隐患排查治理制度，开展环境安全隐患排查治理工作，建立隐患排查治理档案；将突发环境事件应急培训纳入单位工作计划，对从业人员定期进行突发环境事件应急知识和技能培训，建立培训档案，如实记录培训的时间、内容、参加人员等信息。将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c45f9bf8d0d3a5e479d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/822672/index.html
+存入parsed_data
+{'announcementTitle': '责令北京华德液压工业集团有限责任公司液压泵分公司改正违法行为决定书(〔2017〕Y1号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2017年10月24日', 'announcementCode': '', 'facts': '我局于2017年10月17日对你公司位于北京市丰台区卢沟桥南里3号的生产现场进行了检查。你单位主要从事液压泵生产，使用液氨对零件进行表面处理，储存有0.8吨液氨。液氨有强烈刺激性气味、具有腐蚀性且容易挥发，泄露容易引发突发环境事件。你单位使用液氨，属于环境风险企业，应对从业人员进行相关的知识和技能培训，但检查发现你单位正压式呼吸器无人会使用，一年内未对从业人员进行突发环境事件应急知识和技能培训，无培训记录，属于未按规定开展突发环境事件应急培训，如实记录培训情况的违法行为。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京华德液压工业集团有限责任公司液压泵分公司\n\u3000\u3000法定代表人：岳高丽\n\u3000\u3000地址：北京市丰台区卢沟桥南里3号', 'punishmentBasement': '你单位的上述行为违反了《突发环境事件应急管理办法》第十九条的规定', 'punishmentDecision': '依据《突发环境事件应急管理办法》第三十八条第四项的规定，责令你单位停止违法行为，并自收到本决定书之日起一个月内，完成本年度对从业人员突发环境事件应急知识和技能的首次培训，建立长效培训机制，将突发环境事件应急培训纳入单位工作计划，定期对从业人员进行突发环境事件应急知识和技能培训，建立培训档案，如实记录培训的时间、内容、参加人员等信息，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c46f9bf8d0d3a5e479f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/818343/index.html
+存入parsed_data
+'NoneType' object has no attribute 'group'
+{'announcementTitle': '责令中国科学院物理研究所改正违法行为决定书(〔2017〕F3号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2017年3月9日', 'announcementCode': '', 'facts': '我局于2017年2月27日对你单位进行了调查，发现你单位未按照规定组织辐射防护负责人和工作人员参加辐射安全培训。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国科学院物理研究所\n\u3000\u3000法定代表人：王玉鹏\n\u3000\u3000地址：北京市海淀区中关村南三街8号', 'punishmentBasement': '', 'punishmentDecision': '依据该办法第五十五条第一款第三项规定，责令你单位在收到本决定书之日起30日之内，完成整改，并将整改情况书面报告我局。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c46f9bf8d0d3a5e47a1'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/818335/index.html
+存入parsed_data
+'NoneType' object has no attribute 'group'
+{'announcementTitle': '责令中国科学院物理研究所改正违法行为决定书(〔2017〕F2号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2017年3月9日', 'announcementCode': '', 'facts': '我局于2017年2月27日对你单位进行了调查，发现你单位未按照规定进行工作场所辐射监测。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国科学院物理研究所\n\u3000\u3000法定代表人：王玉鹏\n\u3000\u3000地址：北京市海淀区中关村南三街8号', 'punishmentBasement': '', 'punishmentDecision': '依据该办法第五十五条第一款第一项规定，责令你单位在收到本决定书之日起30日之内，完成整改，并将整改情况书面报告我局。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c47f9bf8d0d3a5e47a3'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/818327/index.html
+存入parsed_data
+'NoneType' object has no attribute 'group'
+{'announcementTitle': '责令中国科学院物理研究所改正违法行为决定书( 〔2017〕F1号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2017年3月9日', 'announcementCode': '', 'facts': '我局于2017年2月27日对你单位进行了调查，发现你单位未按照规定进行辐射工作人员个人剂量监测。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国科学院物理研究所\n\u3000\u3000法定代表人：王玉鹏\n\u3000\u3000地址：北京市海淀区中关村南三街8号', 'punishmentBasement': '', 'punishmentDecision': '依据该办法第五十五条第一款第四项规定，责令你单位在收到本决定书之日起30日之内，完成整改，并将整改情况书面报告我局。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c47f9bf8d0d3a5e47a5'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700107/index.html
+存入parsed_data
+{'announcementTitle': '责令北京佳年葡萄种植有限公司改正违法行为决定书（〔2016〕Z 5号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2016年3月10日对你单位在北京市房山区新建的佳年酒庄生产线项目进行了调查，该项目总占地约1169平方米，建设内容为一条生产线，主要包括发酵设备（总容量135吨），20个储蓄罐（设备总容量56吨），意大利GAI1200瓶/小时葡萄酒罐装机1台，模柱过滤机1台，气囊压榨机1台等。该项目总投资约353万元，主要生产红、白葡萄酒，设计产能约80吨/年。该生产线于2013年9月开始建设，2014年12月已经建成，但未办理环保审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京佳年葡萄种植有限公司\n\u3000\u3000法定代表人：阎晓东\n\u3000\u3000地址：北京市房山区青龙湖镇西庄户村村委会南50米', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止违法行为，在收到本决定书之日起6个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c48f9bf8d0d3a5e47a7'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700103/index.html
+存入parsed_data
+{'announcementTitle': '责令北京金杏湾生态农业科技有限公司改正违法行为决定书（〔2016〕Z 4号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2016年3月10日对你单位的北京市房山区金杏湾红酒庄园生产线项目进行了调查，该项目总建筑面积约1780平方米，建设内容主要包括10吨发酵罐、储酒罐16台、5吨发酵罐8台、过滤机2台、除梗破碎机1台、清酒罐1台、5吨冷冻罐2台、红酒罐装线一条等。该项目总投资约678万元，主要生产干红葡萄酒，设计产能约80吨/年。该生产线于2013年8月开始建设，2014年11月已经建成，但未办理环保审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京金杏湾生态农业科技有限公司\n\u3000\u3000法定代表人：王希祥\n\u3000\u3000地址：北京市房山区南窖乡花港村一区20', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止违法行为，在收到本决定书之日起6个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c48f9bf8d0d3a5e47a9'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700100/index.html
+存入parsed_data
+{'announcementTitle': '责令丹世红庄园（北京）葡萄酒业有限公司改正违法行为决定书（〔2016〕Z 3号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '', 'facts': '我局于2016年3月10日对你单位位于北京市房山区的丹世红葡萄酒庄园生产线项目进行了调查，该项目总建筑面积约600平方米，建设内容主要包括新建红酒庄园生产线，购置发酵罐29个、储酒罐24个、冷冻罐7个、电加热罐1个、板式换热器1台，除梗破碎机1套、气囊压榨机1台，制冷机1台，半自动过滤灌装打塞机1套等。该项目总投资约400万元，主要生产干红葡萄酒，设计产能约100吨/年。该生产线于2014年9月开始建设，2014年10月已经建成，但未办理环保审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：丹世红庄园（北京）葡萄酒业有限公司\n\u3000\u3000法定代表人：李丹柯\n\u3000\u3000地址：北京市房山区青龙湖镇口头村村委会东侧30米', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止违法行为，在收到本决定书之日起6个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c49f9bf8d0d3a5e47ab'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700219/index.html
+存入parsed_data
+'NoneType' object has no attribute 'group'
+{'announcementTitle': '责令北京市公联公路联络线有限责任公司改正违法行为决定书（〔2016〕Z 2号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2016年5月25日', 'announcementCode': '', 'facts': '我局会同北京市环境保护监测中心对你单位承建的京良路（六环路－批发市场中轴路）道路改建工程和京良收费站“交通噪声扰民问题”进行了调查和监测。根据《声环境质量标准》（GB3096-2008）和房山区政府关于《房山区声环境功能区划实施细则》的批复（房政函〔2014〕379号），受交通噪声影响的加州水郡小区西区属于2类声环境功能区，执行《声环境质量标准》（GB3096-2008）2类声环境功能区规定的昼间60dB(A)，夜间50dB(A)的环境噪声限值。\n\u3000\u3000北京市环境保护监测中心在加州水郡小区西区112号楼二单元11楼一卧室窗外1米处进行了昼夜24小时声环境质量监测。检测报告（报告编号：XF16004）显示：昼间等效声级65.4\xa0dB，夜间等效声级64.8dB，超过了《声环境质量标准》（GB3096-2008）2类声环境功能区标准限值，且该道路有噪声扰民投诉，已经造成了噪声污染。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市公联公路联络线有限责任公司\n\u3000\u3000法定代表人：戴景珠\n\u3000\u3000地址：北京市朝阳区酒仙桥村1号\n\u3000\u30002016年4月20日，', 'punishmentBasement': '', 'punishmentDecision': '依据《北京市环境噪声污染防治办法》第十条第一款的规定，责令你单位在收到本决定书之日起90日之内，完成对京良路（六环路－批发市场中轴路）道路改建工程和京良收费站噪声源的治理工作，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未完成治理任务的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c49f9bf8d0d3a5e47ad'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700218/index.html
+存入parsed_data
+{'announcementTitle': '责令北京比亚汽车零部件有限公司改正违法行为决定书（〔2016〕Z 1号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2016年4月22日', 'announcementCode': '京环审〔2011〕69号', 'facts': '我局于2016年4月14日对你单位北京比亚汽车零部件有限公司项目进行了调查，该项目租用北京威卡威汽车零部件股份有限公司现有厂房，购置工艺设备148 台（套），建设ABS 注塑生产线和ABS 塑料电镀生产线各1 条，形成年产汽车内外饰电镀件22 万套（镀层面积9.24 万平方米）产能。该项目于2011年2月通过我局审批（京环审〔2011〕69号），2012年开工建设， 2014年8月竣工投产。但检查发现项目实际建设地点为魏永路北侧, 不是环评报告书审批的魏永路南侧，属于项目建设地点发生重大变化，但没有重新报批建设项目环境影响报告文件。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京比亚汽车零部件有限公司\n\u3000\u3000法定代表人：李璟瑜\n\u3000\u3000地址：北京市大兴区魏永路(天堂河段)70号', 'punishmentBasement': '你单位的上述行为违反了《建设项目环境保护管理条例》第十二条第一款的规定', 'punishmentDecision': '依据《建设项目环境保护管理条例》第二十四条第（二）项的规定，责令你单位在收到本决定书之日起90日之内，重新报批建设项目环境影响报告文件，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4af9bf8d0d3a5e47af'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700217/index.html
+存入parsed_data
+{'announcementTitle': '责令北京汽车集团有限公司改正违法行为决定书(〔2015〕Z 15号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年11月18日', 'announcementCode': '京环保责改字〔2015〕Z\xa015号', 'facts': '我局于2015年11月10日对你单位位于顺义区赵全营镇空港开发区C区的北京汽车集团有限公司越野车产品技术改造项目进行调查，该项目总用地面积约为53.13万平方米，新增建筑面积约为22.3万平方米，主要建设焊装、涂装、总装三大生产工艺和与之配套的辅助生产及办公生活设施，总投资约为26亿元。你单位越野车产品技术改造项目未办理环评审批手续，但已于2013年6月开工建设，于2015年9月完成建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京汽车集团有限公司\n\u3000\u3000法定代表人：徐和谊\n\u3000\u3000地址：北京市顺义区双河大街99号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4af9bf8d0d3a5e47b1'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700216/index.html
+存入parsed_data
+{'announcementTitle': '责令中国水利水电科学研究院改正违法行为决定书(〔2015〕Z 14号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年11月10日', 'announcementCode': '京环保责改字〔2015〕Z\xa014号', 'facts': '我局于2015年10月16日对你单位位于延庆县八达岭经济开发区康庄镇西康路48号中国水科院延庆试验基地的中国水科院自动控制与仿真实验室项目进行了检查，该项目用地6415平方米，总建筑面积4950平方米，为地上四层的多层科研类建筑，并配套相关试验专用设施。你单位未办理环保审批手续，但该项目已于2014年4月开工建设，2014年底已完成项目建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国水利水电科学研究院\n\u3000\u3000法定代表人：匡尚富\n\u3000\u3000地址：北京市海淀区车公庄西路20号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款规定，责令你单位停止建设，在收到本决定书之日起90日之内，补办环保审批手续，并将改正情况书面报告我局。\xa0\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4bf9bf8d0d3a5e47b3'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700212/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市平谷区市政市容管理委员会改正违法行为决定书(〔2015〕Z 13号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年9月18日', 'announcementCode': '京环保责改字〔2015〕Z\xa013号', 'facts': '我局于2015年5月15日对你单位位于平谷区东高镇南宅的平谷区生活垃圾综合处理厂项目进行了调查，该项目占地面积16.3万平方米，建筑面积约2.1万平方米，总投资约2.7亿元，设计采用堆肥、焚烧、填埋等方式日处理生活垃圾600吨。该生活垃圾综合处理厂已于2014年5月开始接收生活垃圾进行填埋处理，但目前尚未依法办理环保验收手续，存在填埋部分污染处理设施不能正常使用的问题。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市平谷区市政市容管理委员会\n\u3000\u3000法定代表人：李臣\n\u3000\u3000地址：北京市平谷区平谷镇府前街甲32号', 'punishmentBasement': '你单位的上述行为违反了《建设项目环境保护管理条例》第二十三条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款规定，责令你单位停止建设，在收到本决定书之日起90日之内，补办环保审批手续，并将改正情况书面报告我局。\xa0\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4bf9bf8d0d3a5e47b5'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700208/index.html
+存入parsed_data
+{'announcementTitle': '责令首都医科大学附属北京儿童医院改正违法行为决定书(〔2015〕Z 12号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2015〕Z 12号', 'facts': '我局于2015年3月13日对你单位位于北京市西城区南礼士路56号的首都医科大学附属北京儿童医院血液肿瘤中心项目进行检查，该项目建设内容主要包括门急诊部、医科技室、病房等配套设施，工程总建筑面积52785平方米，总投资74883万元。检查时发现该单位血液肿瘤中心项目未经环保审批，已于2013年11月开始建设该项目组成之一的1300m3/d污水处理站，并于2014年9月基本竣工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：首都医科大学附属北京儿童医院\n\u3000\u3000法定代表人：倪鑫\n\u3000\u3000地址：北京市西城区南礼士路56号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止项目建设，在收到本决定书之日起60日之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4cf9bf8d0d3a5e47b7'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700203/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市昌平区水务局南口地区污水处理中心改正违法行为决定书(〔2015〕Z 11号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年3月27日', 'announcementCode': '京环保责改字〔2015〕Z 11号', 'facts': '我局于2015年3月17日对你单位进行了现场检查，调取了你单位污水自动监控设备水污染物实时监测记录，发现自2015年2月10日至3月17日期间，PH值日均值显示为0，自动监控设备不正常运行状态未能及时修复，不符合《北京市固定污染源自动监控管理办法》第十七条的规定要求。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市昌平区水务局南口地区污水处理中心\n\u3000\u3000法定代表人：朱立军\n\u3000\u3000地址：北京市昌平区南口镇七间房村', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国水污染防治法》第二十三条第一款的规定', 'punishmentDecision': '依据《中华人民共和国水污染防治法》第七十二条第二项的规定，责令你单位在收到本决定书之日起15日之内改正环境违法行为，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4cf9bf8d0d3a5e47b9'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700202/index.html
+存入parsed_data
+{'announcementTitle': '责令北京燕山东炼石油化工有限公司改正违法行为决定书(〔2015〕Z 10号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年3月16日', 'announcementCode': '京环保责改字〔2015〕Z 10号', 'facts': '我局于2015年1月4日对你单位的20万吨/液化深加工制MTBE装置项目进行了调查，该项目占地约4万平方米，其中控制室、分析室建筑面积1200平方米左右，装置总投资约2亿元。该装置以液化气和甲醇为原料生产MTBE（甲基叔丁基醚），设计年产量13万吨。该项目于2012年10月开始建设， 2014年10月已经建成，但未办理环保审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京燕山东炼石油化工有限公司\n\u3000\u3000法定代表人：张殿明\n\u3000\u3000地址：北京市房山区燕山东流水开发区丁冬路26号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止违法行为，在收到本决定书之日起6个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4df9bf8d0d3a5e47bb'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700201/index.html
+存入parsed_data
+{'announcementTitle': '责令北京燕山和成催化剂有限公司改正违法行为决定书(〔2015〕Z 9号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年3月16日', 'announcementCode': '京环保责改字〔2015〕Z 9号', 'facts': '我局于2015年1月4日对你单位位于房山区新材料产业基地B6地块的1000吨/年稀土催化剂装置项目进行了调查，该项目主要生产稀土橡胶催化剂（产品名称为新癸酸钕和异辛酸钕），设计年产量约750吨，总建筑面积9964平方米，总投资约8000万元。该项目于2012年5月开始建设，2012年9月主体装置已经建成，但未办理环保审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京燕山和成催化剂有限公司\n\u3000\u3000法定代表人：李光松\n\u3000\u3000地址：北京市房山区燕山岗南路2号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止违法行为，在收到本决定书之日起6个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4df9bf8d0d3a5e47bd'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700196/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市公联公路联络线有限责任公司改正违法行为决定书(〔2015〕Z 8号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年3月6日', 'announcementCode': '京环保责改字〔2015〕Z\xa08号', 'facts': '我局于2015年2月3日对你单位位于北京市丰台区的蒲黄榆路（南三环-南四环）道路工程项目进行了调查，该项目道路全长3.38公里，总投资约10.3亿元。该项目尚未依法办理环保验收手续，但已于2010年5月投入使用。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市公联公路联络线有限责任公司\n\u3000\u3000法定代表人：戴景珠\n\u3000\u3000地址：北京市朝阳区酒仙桥村1号', 'punishmentBasement': '你单位的上述行为违反了《建设项目环境保护管理条例》第二十条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止违法行为，在收到本决定书之日起6个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4ef9bf8d0d3a5e47bf'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700195/index.html
+存入parsed_data
+{'announcementTitle': '责令中国联合网络通信有限公司北京分公司改正违法行为决定书(〔2015〕Z 7号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2015〕Z 7号', 'facts': '我局于2014年12月30日对你单位位于昌平区白浮泉路东1号自在居餐厅楼顶通信基站进行了调查，发现该基站未办理环保审批手续，但已于2014年12月19日安装完成。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国联合网络通信有限公司北京分公司\n\u3000\u3000法定代表人：汪世昌\n\u3000\u3000地址：北京市西城区复兴门南大街6号\xa0\xa0\xa0\n\u3000\u3000接信访投诉，', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起60日之内，补办环保审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4ef9bf8d0d3a5e47c1'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700188/index.html
+存入parsed_data
+{'announcementTitle': '责令北京世纪鸿城置业有限公司改正违法行为决定书(〔2015〕Z 6号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年1月19日', 'announcementCode': '京环保责改字〔2015〕Z 6号', 'facts': '我局于2014年12月30日对你单位位于昌平区北七家镇（平西府组团土地一级开发项目北区地块）二类居住、商业金融、托幼用地项目进行检查，该项目建筑控制规模为28.8万平方米（不含地下面积），建设内容为住宅及配套、商业、办公、托幼，总投资约26亿元。该项目未办理环保审批手续，但已于2014年9月开工建设，目前正在进行主体结构施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京世纪鸿城置业有限公司\n\u3000\u3000法定代表人：苏兆安\n\u3000\u3000地址：北京市朝阳区北苑家园望春园11号楼', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起60日之内，补办环保审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c4ff9bf8d0d3a5e47c3'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700185/index.html
+存入parsed_data
+{'announcementTitle': '责令北京正华永顺房地产开发有限公司改正违法行为决定书(〔2015〕Z 5号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年1月15日', 'announcementCode': '京环保责改字〔2015〕Z 5号', 'facts': '我局于2014年12月31日对你单位位于北京市顺义区顺义新城第22街区SY00-0022-6003（西区）地块R2二类居住用地项目进行了调查，该项目建设内容为住宅及配套，建筑规模为13万平方米（不含地下面积），总投资22.5亿元。你单位未取得环评审批文件，但已于2014年4月开工建设，目前处于建筑结构施工阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京正华永顺房地产开发有限公司\n\u3000\u3000法定代表人：许燕晨\n\u3000\u3000地址：北京市顺义区后沙峪镇安富街6号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c50f9bf8d0d3a5e47c5'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700183/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市东升农工商总公司改正违法行为决定书(〔2015〕Z 4号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年1月15日', 'announcementCode': '京环保责改字〔2015〕Z 4号', 'facts': '我局于2014年12月29日对你单位位于北京市海淀区东升镇小营村的中关村东升科技园二期回迁安置房项目进行检查，该项目总建筑面积19.4万平方米，总投资约7.2亿元,建设内容为住宅及居住公共服务设施。该项目未办理环评审批手续，已于2013年9月开工，目前正在进行主体工程建设施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市东升农工商总公司\n\u3000\u3000法定代表人：齐文兴\n\u3000\u3000地址：北京市海淀区成府路45号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，并经有关部门审批合格，自收到本决定书之日起6个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c50f9bf8d0d3a5e47c7'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700186/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市海淀区温泉镇东埠头村经济合作社改正违法行为决定书(〔2015〕Z 3号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年1月15日', 'announcementCode': '京环保责改字〔2015〕Z 3号', 'facts': '我局于2014年12月15日对你单位位于北京市海淀区温泉镇3-3街区351地块集体土地租赁住房项目进行检查，该项目总建筑用地面积14.8万平方米（不含地下面积），总投资约13.6亿元,建设内容为集体产业租赁住房及配套。该项目未办理环评审批手续，已于2013年4月开工，目前正在进行主体结构施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市海淀区温泉镇东埠头村经济合作社\n\u3000\u3000法定代表人：葛军\n\u3000\u3000地址：北京市海淀区温泉镇东埠头村', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c51f9bf8d0d3a5e47c9'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700174/index.html
+存入parsed_data
+{'announcementTitle': '责令北京华恒兴业房地产有限公司改正违法行为决定书(〔2015〕Z 2号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年1月15日', 'announcementCode': '京环保责改字〔2015〕Z\xa02号', 'facts': '我局于2014年12月26日对你单位位于北京市通州区运河核心区IV-08号、09号多功能用地项目工程进行检查，其中运河核心区IV-08号多功能用地项目建筑控制规模为14.3万平方米，建设内容为商业、办公、商务型公寓等多功能用房，总投资估算约为18亿万元；运河核心区IV-09号多功能用地项目建筑控制规模为11.3万平方米，建设内容为商业、商务型公寓等多功能用房，总投资估算为13.6亿元。你单位上述建设项目未办理环评审批手续，但已于2013年9月开工建设，现处于主体结构施工阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京华恒兴业房地产有限公司\n\u3000\u3000法定代表人：徐红\n\u3000\u3000地址：北京市通州区新华北路55号418室', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，限收到本决定书之日起2个月之内，补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c51f9bf8d0d3a5e47cb'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700173/index.html
+存入parsed_data
+{'announcementTitle': '责令北京东洲房地产开发有限公司改正违法行为决定书(〔2015〕Z 1号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2015年1月2日', 'announcementCode': '京环保责改字〔2015〕Z\xa01号', 'facts': '我局于2014年12月29日对你单位位于朝阳区的崔各庄乡来广营北路二类居住用地项目进行检查，该项目建筑控制规模约23万平方米（不含地下面积），建设内容为住宅、小学、托幼、养老等配套，总投资约38.9亿元。该项目未办理环保审批手续，但已于2014年2月开工建设，目前正在进行主体结构施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京东洲房地产开发有限公司\n\u3000\u3000法定代表人：周卫东\n\u3000\u3000地址：北京市朝阳区东直门外奶子房村西青饲料站三队（办公）2幢101、102', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起60日之内，补办环保审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c52f9bf8d0d3a5e47cd'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700172/index.html
+存入parsed_data
+{'announcementTitle': '责令北京大学改正违法行为决定书(〔2014〕Z 35号 )', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年12月3日', 'announcementCode': '京环保责改字〔2014〕Z 35号', 'facts': '我局于2014年11月28日对你单位位于北京市海淀区颐和园路5号的光华管理学院楼加层改造项目进行检查，该项目用地性质为C6教育科研设计用地。教学楼总建筑用地面积4.9万平方米，其中本项目建设用地规模8100平方米，本次新增地上建筑面积约1200平方米。该项目未办理环评审批手续，已于2013年7月开工，目前正在进行主体工程施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京大学\n\u3000\u3000法定代表人：王恩哥\n\u3000\u3000地址：北京市海淀区颐和园路5号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c52f9bf8d0d3a5e47cf'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700171/index.html
+存入parsed_data
+{'announcementTitle': '责令北京城建兴华地产有限公司改正违法行为决定书(〔2014〕Z 33号 )', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年12月3日', 'announcementCode': '京环保责改字〔2014〕Z\xa033号', 'facts': '我局于2014年11月21日对你单位位于北京市大兴区魏善镇的大兴区魏善庄镇北区、西区AA-25地块项目进行检查，该项目建设内容为商业、办公，建筑控制规模为18.4万平方米（不含地下），总投资约22.4亿元。该项目未办理环评审批手续，但已于2014年6月底开工，目前处于基础结构施工阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京城建兴华地产有限公司\n\u3000\u3000法定代表人：梁伟明\n\u3000\u3000地址：北京市海淀区丹棱街16号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起2个月内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c53f9bf8d0d3a5e47d1'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700161/index.html
+存入parsed_data
+{'announcementTitle': '责令中国航天科工防御技术研究院改正违法行为决定书(〔2014〕Z 32号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年11月21日', 'announcementCode': '京环保责改字〔2014〕Z 32号', 'facts': '我局于2014年11月15日对你单位位于房山区长阳镇（新城良乡组团东部）的长阳航天城电子科技园2-1#、2-2#、2-3#科研综合楼及配套基础设施建设项目进行了调查，该项目主要建设科研综合楼及配套基础设施，总投资约20.622亿元，总建筑面积约23.78万平方米。该项目未办理环评审批手续，于2014年3月开工建设，目前2-1#、2-2#科研综合楼正在进行主体结构施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国航天科工防御技术研究院\n\u3000\u3000法定代表人：符志民\n\u3000\u3000地址：北京市海淀区永定路50号31号楼', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，你单位在收到本决定书之日起6个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c53f9bf8d0d3a5e47d3'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700165/index.html
+存入parsed_data
+{'announcementTitle': '责令北京城建兴泰房地产开发有限公司改正违法行为决定书(〔2014〕Z 31号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年11月21日', 'announcementCode': '京环保责改字〔2014〕Z\xa031号', 'facts': '我局于2014年11月18日对你单位在房山区长阳镇长于路东侧的房山新城良乡组团10-01-08等地块（理工大学2号地）二类居住等用地项目进行了调查。该项目主要建设商品房及公共配套服务设施，总建筑面积22.7万平方米。该项目未办理环保审批手续，但目前正在进行土方和主体结构施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京城建兴泰房地产开发有限公司\n\u3000\u3000法定代表人：刘旭\n\u3000\u3000地址：北京市房山区长阳镇杨庄子村委会', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止违法行为，在收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c54f9bf8d0d3a5e47d5'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700160/index.html
+存入parsed_data
+{'announcementTitle': '责令北京北控城市开发有限公司改正违法行为决定书(〔2014〕Z 30号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年11月4日', 'announcementCode': '京环保责改字〔2014〕Z 30号', 'facts': '我局于2014年10月29日对你单位位于怀柔区中高路南侧的北京雁栖湖生态发展示范区环境整治定向安置房项目进行检查，该项目建设内容为住宅及配套设施，总建筑规模约72.8万平方米，总投资约33.2亿元。你单位未办理环保审批手续，但该项目一期工程已于2012年12月开工建设，目前已完成主体结构施工，正在进行装修。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京北控城市开发有限公司\n\u3000\u3000法定代表人：张文华\n\u3000\u3000地址：北京市怀柔区雁栖镇政府西侧50米', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款规定，责令你单位停止建设，在收到本决定书之日起90日之内，补办环保审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c54f9bf8d0d3a5e47d7'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700159/index.html
+存入parsed_data
+{'announcementTitle': '责令中铁十六局集团第四工程有限公司改正违法行为决定书(〔2014〕Z 27号)', 'announcementOrg': '2014年10月31日', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2014〕Z 27号', 'facts': '我局于2014年10月24日对你单位位于怀柔区庙城镇的棚户区改造项目进行检查，该项目建设内容为职工住宅，建筑控制规模约14万平方米。你单位未办理环保审批手续，但该项目已于2013年7月开工建设，目前主体工程已经封顶。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中铁十六局集团第四工程有限公司\n\u3000\u3000法定代表人：胡振潮\n\u3000\u3000地址：北京市怀柔区迎宾中路2号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款规定，责令你单位停止建设，在收到本决定书之日起90日之内，补办环保审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c55f9bf8d0d3a5e47d9'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700152/index.html
+存入parsed_data
+{'announcementTitle': '责令北京创誉房地产开发有限公司改正违法行为决定书(〔2014〕Z 29号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年10月31日', 'announcementCode': '京环保责改字〔2014〕Z 29号', 'facts': '我局于2014年10月24日对你单位位于房山区长阳镇的房山区长阳镇01-08-03、01-11-04等地块二类居住、商业金融用地项目进行了调查，该项目总建筑面积25.9万平方米。该项目未经环保审批，但已于2014年3月开始施工，目前部分地块正在进行主体结构施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京创誉房地产开发有限公司\n\u3000\u3000法定代表人：孔健涛\n\u3000\u3000地址：北京市房山区长阳镇京良路北长阳环岛东100米', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起6个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c56f9bf8d0d3a5e47db'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700151/index.html
+存入parsed_data
+{'announcementTitle': '责令北京兴泰吉成置业有限公司改正违法行为决定书(〔2014〕Z 28号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年10月31日', 'announcementCode': '京环保责改字〔2014〕Z 28号', 'facts': '我局于2014年10月23日对你单位房山区房山线长阳西站4号地01-04-04等地块二类居住、商业金融用地项目进行了调查，该项目建设内容为居住及配套、商业金融、体育设施、邮政设施、医疗卫生设施、公共交通、社会停车场及幼儿园等，总建筑控制规模为19.6万平方米，总投资约15.9亿元。该项目未办理环评审批手续，但已于2012年10月开始施工，目前，部分地块已经建成。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京兴泰吉成置业有限公司\n\u3000\u3000法定代表人：胡卫民\n\u3000\u3000地址：北京市房山区长阳镇长于路甲3号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c56f9bf8d0d3a5e47dd'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700148/index.html
+存入parsed_data
+{'announcementTitle': '责令中铁房地产集团北京金达世纪房地产开发有限公司改正违法行为决定书(〔2014〕Z 26号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年10月24日', 'announcementCode': '京环保责改字〔2014〕Z 26号', 'facts': '我局于2014年9月18日对你单位位于北京市昌平区南邵镇的昌平区中关村科技园昌平园东区二期0303-04地块住宅混合公建用地项目进行检查，该项目建设内容为住宅、商业及办公，建筑规模为16.9万平方米 总投资估算为15.3亿元。该项目未办理环保审批手续，但已于2014年5月开工建设，现在处于主体结构和地下结构施工阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中铁房地产集团北京金达世纪房地产开发有限公司\n\u3000\u3000法定代表人：郭辉\n\u3000\u3000地址：北京市昌平区南邵镇社区服务中心011房间', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条规定', 'punishmentDecision': '依据该法第三十一条第一款规定，责令你单位停止违法行为，并在收到本决定书之日起，限2个月内补办环评手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c57f9bf8d0d3a5e47df'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700140/index.html
+存入parsed_data
+{'announcementTitle': '责令中铁嘉业（北京）投资有限公司改正违法行为决定书(〔2014〕Z 25号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年10月13日', 'announcementCode': '京环保责改字〔2014〕Z 25号', 'facts': '我局于2014年9月25日对你单位在北京市房山区城关街道建设的房山区房山新城燕房区FS00-YF05-0005等地块二类居住、商业金融及社会停车场库用地项目进行了调查，该项目总建筑面积约19.4万平方米。该项目未办理环评审批手续，已于2014年9月开工建设，目前正在进行土方施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中铁嘉业（北京）投资有限公司\n\u3000\u3000法定代表人：钟金东\n\u3000\u3000地址：北京市房山区长阳镇广阳大街1号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c58f9bf8d0d3a5e47e1'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700147/index.html
+存入parsed_data
+{'announcementTitle': '责令北京华航无线电测量研究所改正违法行为决定书(〔2014〕Z 24号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年10月13日', 'announcementCode': '京环保责改字〔2014〕Z 24号', 'facts': '我局于2014年9月25日对你单位在房山区长阳镇良乡东路南侧的长阳航天城电子科技园三院北京华航无线电测量研究所建设项目进行检查，该项目总建筑面积25.1万平方米，分两期建设，一期建设内容为科研生产综合楼、部件集成组装中心和动力中心及其附属设施，二期建设内容为仿真实验中心、民品研发中心和保障中心及其附属设施。该项目未办理环评审批手续，已于 2014年3月底开始施工，目前科研生产综合楼、部件集成组装中心项目正在进行主体结构施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京华航无线电测量研究所\n\u3000\u3000法定代表人：周明\n\u3000\u3000地址：房山区长阳镇良乡东路南侧', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c58f9bf8d0d3a5e47e3'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700139/index.html
+存入parsed_data
+{'announcementTitle': '责令北京鼎实环境工程有限公司改正违法行为决定书(〔2014〕Z 23号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年9月30日', 'announcementCode': '京环保责改字〔2014〕Z 23号', 'facts': '我局于2014年8月27日对位于朝阳区化工路甲1号、由你单位和中石化第五建设有限公司共同承担的焦化厂保障性住房地块污染土治理修复项目进行了调查，发现工程施工采用露天清挖方式，但未采取有效污染防治措施。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京鼎实环境工程有限公司\n\u3000\u3000法定代表人：殷晓东\n\u3000\u3000地址：北京市西城区北三环中路23号9层908室(德胜园区)', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国大气污染防治法》第三十六条第二款的规定', 'punishmentDecision': '依据《中华人民共和国大气污染防治法》第五十六条第（一）项的规定，责令你单位停止违法行为，在收到本决定书之日起60日之内改正，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c59f9bf8d0d3a5e47e5'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700137/index.html
+存入parsed_data
+{'announcementTitle': '责令中石化第五建设有限公司改正违法行为决定书(〔2014〕Z 22号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年9月30日', 'announcementCode': '京环保责改字〔2014〕Z 22号', 'facts': '我局于2014年8月27日对位于朝阳区化工路甲1号、由你单位和北京鼎实环境工程有限公司共同承担的焦化厂保障性住房地块污染土治理修复项目进行了调查，发现工程施工采用露天清挖方式，但未采取有效污染防治措施。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中石化第五建设有限公司\n\u3000\u3000法定代表人：田建军\n\u3000\u3000地址：广州市荔湾区中山七路73-83号首层至十六层', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国大气污染防治法》第三十六条第二款的规定', 'punishmentDecision': '依据《中华人民共和国大气污染防治法》第五十六条第（一）项的规定，责令你单位停止违法行为，在收到本决定书之日起60日之内改正，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c59f9bf8d0d3a5e47e7'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700128/index.html
+存入parsed_data
+'NoneType' object has no attribute 'group'
+{'announcementTitle': '责令北京锦昊万华置业有限公司改正违法行为决定书(〔2014〕Z 21号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年9月23日', 'announcementCode': '京环保责改字〔2014〕Z 21号', 'facts': '我局于2014年9月15日对你单位位于北京市昌平区沙河镇C-X06、C-X07、C-X10地块建设项目进行调查，该项目建设内容为住宅与配套、商业、办公、文化设施、幼儿园，建筑规模为27.7万平方米。该项目未办理环保审批手续，但已于2014年5月开工建设，部分楼盘已进行结构施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京锦昊万华置业有限公司\n\u3000\u3000法定代表人：宋海林\n\u3000\u3000地址：北京市昌平区沙河镇人民政府南楼2层208室', 'punishmentBasement': '', 'punishmentDecision': '依据该法第三十一条第一款规定，责令停止违法行为，并在收到本决定书之日起，限2个月内补办环评手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c5af9bf8d0d3a5e47e9'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700129/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市公联公路联络线有限责任公司改正违法行为决定书(〔2014〕Z 20号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年9月23日', 'announcementCode': '京环保责改字〔2014〕Z 20号', 'facts': '我局于2014年9月12日对你单位位于北京市丰台区宋家庄的交通枢纽（一期）项目进行了调查，该项目包括交通枢纽及3条配套道路，总投资约7.7亿元。该项目尚未办理环保验收手续，但已于2012年6月投入使用。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市公联公路联络线有限责任公司\n\u3000\u3000法定代表人：戴景珠\n\u3000\u3000地址：北京市朝阳区酒仙桥村1号', 'punishmentBasement': '你单位的上述行为违反了《建设项目环境保护管理条例》第二十三条的规定', 'punishmentDecision': '依据该法第三十一条第一款规定，责令停止违法行为，并在收到本决定书之日起，限2个月内补办环评手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c5af9bf8d0d3a5e47eb'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700126/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市鹏睿房地产开发有限公司改正违法行为决定书(〔2014〕Z 19号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年9月23日', 'announcementCode': '京环保责改字〔2014〕Z 19号', 'facts': '我局于2014年9月11日对你单位位于丰台区长辛店镇东河沿村的村民回迁安置房项目进行了调查，该项目建设内容为住宅及配套服务设施，建筑规模约31万平方米，总投资约13亿元。你单位未依法向环保部门报批环境影响评价文件，但已于2013年10月擅自开工建设，目前正在进行结构施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市鹏睿房地产开发有限公司\n\u3000\u3000法定代表人：霍永庆\n\u3000\u3000地址：北京市丰台区长辛店镇东河沿村', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款及第二十五条的规定', 'punishmentDecision': '依据该法第三十一条第一款规定，责令停止违法行为，并在收到本决定书之日起，限2个月内补办环评手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c5bf9bf8d0d3a5e47ed'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700122/index.html
+存入parsed_data
+{'announcementTitle': '责令北京远山置业有限公司改正违法行为决定书(〔2014〕Z 18号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年9月23日', 'announcementCode': '京环保责改字〔2014〕Z 18号', 'facts': '我局于2014年9月10日对你单位在房山区良乡高教园区东环路西侧长虹东路北侧的房山区拱辰街道及长阳镇（良乡高教园区4号地）09-05-10地铁F1住宅混合公建用地项目进行了调查，该项目为混合公建用地项目（包含限价商品住房、普通商品房、商业及办公用房），建筑规模约8.2万平方米。该项目未办理环评审批手续，已于2014年5月开始施工，目前局部土方已经开挖。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京远山置业有限公司\n\u3000\u3000法定代表人：武文勇\n\u3000\u3000地址：北京市房山区长阳镇水碾屯一村村委会南140米', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c5bf9bf8d0d3a5e47ef'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700119/index.html
+存入parsed_data
+{'announcementTitle': '责令北京万年基业长阳置业有限公司改正违法行为决定书(〔2014〕Z 17号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2014〕Z 17号', 'facts': '我局于2014年9月10日对你单位在北京市房山区长阳镇水碾屯村的房山长阳镇18-02-13等地块（理工大学9号地）住宅及体育用地项目进行了调查。该项目主要建设保障房和商品房，建筑规模约11万平方米。该项目未办理环评审批手续，已于2013年12月开始施工，目前保障房正在进行地下结构建设，一栋配套房进入主体施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京万年基业长阳置业有限公司\n\u3000\u3000法定代表人：王刚\n\u3000\u3000地址：北京市房山区长阳镇水碾屯村', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c5cf9bf8d0d3a5e47f1'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700118/index.html
+存入parsed_data
+{'announcementTitle': '责令中石化第五建设有限公司改正违法行为决定书(〔2014〕Z 16号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年9月17日', 'announcementCode': '京环保责改字〔2014〕Z 16号', 'facts': '我局于2014年8月27日对位于朝阳区黑庄户乡大三村村西、由你们共同承担的焦化厂保障性住房地块污染土治理修复项目施工渣土消纳工程项目进行了调查，发现渣土露天堆放，未采取密闭措施或者其他防护措施，堆放量约10余万立方米。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中石化第五建设有限公司\n\u3000\u3000法定代表人：田建军\n\u3000\u3000地址：广州市荔湾区中山七路73-83号首层至十六层 \xa0\n\u3000\u3000当事人名称：北京鼎实环境工程有限公司\n\u3000\u3000法定代表人：殷晓东\n\u3000\u3000地址：北京市西城区北三环中路23号9层908室(德胜园区)', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国大气污染防治法》第四十二条的规定', 'punishmentDecision': '依据《中华人民共和国大气污染防治法》第五十六条第（三）项的规定，责令你单位停止违法行为，在收到本决定书之日起60日之内改正，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c5ff9bf8d0d3a5e47f3'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700117/index.html
+存入parsed_data
+{'announcementTitle': '责令北京外交人员服务总公司改正违法行为决定书(〔2014〕Z 15号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年9月10日', 'announcementCode': '京环保责改字〔2014〕Z 15号', 'facts': '我局于2014年8月20日对你单位位于北京市朝阳区建外大街的建外外交公寓改扩建项目进行检查，该项目总建筑面积为8.41万平方米，总投资4.9亿元。该项目未办理环保审批手续，但已于2011年开工建设，目前主体结构已经基本完成。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京外交人员服务总公司\n\u3000\u3000法定代表人：袁卫民\n\u3000\u3000地址：北京市东城区朝内大街223号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位在收到本决定书之日起60日之内，补办环保审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c5ff9bf8d0d3a5e47f5'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700112/index.html
+存入parsed_data
+{'announcementTitle': '责令王立友改正违法行为决定书(〔2014〕Z 14号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年8月20日', 'announcementCode': '京环保责改字〔2014〕Z 14号', 'facts': '我局于2014年8月14日对你单位位于北京市顺义区顺义新城第7街区的二类居住用地（两限商品住房）项目进行检查，该项目建筑规模约为19万平方米（不含地下面积），总投资约16亿元，建设内容为住宅及配套。检查发现该项目未办理环评审批手续，但已于2014年3月开工建设，现处于基础结构施工阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '法定代表人：王立友\n\u3000\u3000地址：北京市顺义区林河经济开发区双河大街18号1幢', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c60f9bf8d0d3a5e47f7'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700109/index.html
+存入parsed_data
+{'announcementTitle': '责令北京华信医院改正违法行为决定书(〔2014〕Z 13号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年8月11日', 'announcementCode': '京环保责改字〔2014〕Z 13号', 'facts': '我局于2014年7月7日对你单位进行检查，发现你单位位于门诊楼五层东侧南端的原用于注射放射性药物的核医学场所未办理旧址退役环保审批手续，擅自改变用途，已改为内窥镜消毒室。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京华信医院\n\u3000\u3000法定代表人：吴清玉\n\u3000\u3000地址：北京市朝阳区酒仙桥一街坊6号', 'punishmentBasement': '你单位的上述行为违反了《放射性同位素与射线装置安全和防护条例》第三十三条的规定', 'punishmentDecision': '依据该条例第五十九条第（二）项的规定，责令你单位停止违法行为，并在收到本决定书之日起60日之内，办理退役环保审批手续，同时将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c60f9bf8d0d3a5e47f9'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700534/index.html
+存入parsed_data
+{'announcementTitle': '责令北京富力通达房地产开发有限公司改正违法行为决定书(2014〕Z 12号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年8月7日', 'announcementCode': '京环保责改字〔2014〕Z 12号', 'facts': '我局于2014年8月1日对你单位位于北京市通州区运河核心区的3个F3其他类多功能用地项目进行检查，项目建设内容均为商业、办公及配套公建。其中通州区运河核心区IX-09地块项目建筑控制规模为14.3万平方米，总投资估算25.3亿元； IX-10地块项目建筑控制规模为13.7万平方米,总投资估算24.1亿元； IX-11地块项目建筑控制规模为18.6万平方米，总投资估算32.3亿元。检查发现你单位上述建设项目均未办理环评审批手续，但已于2014年5月开工建设，现处于土方开挖阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京富力通达房地产开发有限公司\n\u3000\u3000法定代表人：杨培军\n\u3000\u3000地址：北京市通州区后南仓32号楼108', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，限收到本决定书之日起2个月之内，补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c61f9bf8d0d3a5e47fb'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700533/index.html
+存入parsed_data
+{'announcementTitle': '责令北京长阳兴业投资发展有限责任公司改正违法行为决定书(〔2014〕Z 9号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年7月31日', 'announcementCode': '京环保责改字〔2014〕Z 9号', 'facts': '我局于2014年7月4日对你单位位于房山区长阳镇的轨道交通房山线A-E号地土地一级开发定向安置房项目进行检查，该项目主要建设住宅及配套，规划总建筑面积约26.8万平方米，总投资约8.45亿元。该项目未办理环评审批手续，但已于2014年3月开工建设，目前项目南区正在进行地下车库施工，北区正在进行主体工程施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京长阳兴业投资发展有限责任公司\n\u3000\u3000法定代表人：苏和平\n\u3000\u3000地址： 北京市房山区长阳镇北广阳城村', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c62f9bf8d0d3a5e47fd'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700532/index.html
+存入parsed_data
+{'announcementTitle': '责令北京当代摩码置业有限公司改正违法行为决定书 (〔2014〕Z 8号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年7月31日', 'announcementCode': '京环保责改字〔2014〕Z 8号', 'facts': '我局于2013年7月11日对你单位位于北京市大兴区采育镇的大兴区采育镇DX10-0001-6006地块项目进行检查，该项目建设内容为住宅及配套，建筑面积约为15万平方米（不含地下），总投资约12.4亿元。该项目未办理环评审批手续，但已于2014年7月初开工，目前处于土方施工阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京当代摩码置业有限公司\n\u3000\u3000法定代表人：张鹏\n\u3000\u3000地址：北京市大兴区采育镇采伟路6号综合办公楼', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c62f9bf8d0d3a5e47ff'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700519/index.html
+存入parsed_data
+{'announcementTitle': '责令中国移动通信集团北京有限公司昌平分公司改正违法行为决定书(〔2014〕Z 7号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年7月22日', 'announcementCode': '京环保责改字〔2014〕Z 7号', 'facts': '我局于2014年6月24日对你单位位于北京市昌平区回龙观镇云趣园2区18号楼南马路对面的无线通信基站进行了调查，发现你单位于2014年5月完成了该基站的建设，但未办理环评审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国移动通信集团北京有限公司昌平分公司\n\u3000\u3000法定代表人：谷奇峰\n\u3000\u3000地址：北京市昌平区昌平镇南环东路42号2层\n\u3000\u3000\n\u3000\u3000接信访投诉，', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条规定', 'punishmentDecision': '依据该法第三十一条第一款规定，责令停止违法行为，并在收到本决定书之日起，限2个月内补办环评手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c65f9bf8d0d3a5e4801'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700520/index.html
+存入parsed_data
+{'announcementTitle': '责令北京首开万科和泰置业有限公司改正违法行为决定书(〔2014〕Z 6号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年7月22日', 'announcementCode': '京环保责改字〔2014〕Z 6号', 'facts': '我局于2013年7月9日对你单位位于北京市大兴区黄村镇的大兴区新城核心区I、J组团0101-009、012地块商业金融用地项目进行检查，该项目建设内容为商业和办公，总建筑控制规模12.7万平方米，总投资约19.3亿元。该项目未办理环评审批手续，但已于2014年7月开工，目前正在进行土方施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京首开万科和泰置业有限公司\n\u3000\u3000法定代表人：宗鸣\n\u3000\u3000地址：北京市大兴区黄村镇政府东配楼305室', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起60日内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c66f9bf8d0d3a5e4803'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700531/index.html
+存入parsed_data
+{'announcementTitle': '责令北京创瑞祥安置业有限公司改正违法行为决定书(〔2014〕Z 5号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年7月22日', 'announcementCode': '京环保责改字〔2014〕Z 5号', 'facts': '我局于2013年6月13日对你单位位于北京市大兴区黄村镇的大兴区孙村组团居住区B-19、B-20地块R2二类居住用地、F3其它类多功能用地项目进行检查，该项目总规模11万平方米，总投资约15.9亿元。该项目未办理环评审批手续，但已于2014年5月20日开工建设，目前已经完成土方施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京创瑞祥安置业有限公司\n\u3000\u3000法定代表人：胡卫民\n\u3000\u3000地址：北京市大兴区黄村镇政府东配楼303室', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起30日内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c66f9bf8d0d3a5e4805'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700518/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市天地祥房地产开发有限公司改正违法行为决定书京环保责改字(〔2014〕Z 4号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年7月22日', 'announcementCode': '京环保责改字(〔2014〕Z 4号', 'facts': '我局于2014年7月4日对你单位位于丰台区花乡纪家庙的定向安置房住宅及配套项目进行了调查，该项目建筑规模约22.5万平方米，总投资约14亿元。你单位未依法向环保部门报批环境影响评价文件，已于2011年9月擅自开工建设，目前已经竣工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市天地祥房地产开发有限公司\n\u3000\u3000法定代表人：佟万江\n\u3000\u3000地址：北京市丰台区郑王坟8号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款及第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起30日内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c67f9bf8d0d3a5e4807'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700517/index.html
+存入parsed_data
+{'announcementTitle': '责令首创天顺基础设施投资有限公司改正违法行为决定书(〔2014〕Z3号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年6月17日', 'announcementCode': '京环保责改字〔2014〕Z 3号', 'facts': '我局于2014年5月30日对你单位位于北京市顺义区赵全营镇板桥村的定向安置房项目进行执法检查，该项目建筑控制规模为27.5万平方米，总投资估算为8.97亿元，建设内容为定向安置房及配套。检查发现该项目未办理环评审批手续，但已于2013年11月开工建设，现正处于基础结构施工阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：首创天顺基础设施投资有限公司\n\u3000\u3000法定代表人：胡卫民\n\u3000\u3000地址：北京市顺义区赵全营镇兆丰产业基地东盈路19号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c67f9bf8d0d3a5e4809'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700632/index.html
+存入parsed_data
+{'announcementTitle': '责令百度在线网络技术（北京）有限公司改正违法行为决定书〔2014〕Z1号', 'announcementOrg': '2014年6月17日', 'announcementDate': 'Bad date', 'announcementCode': '京环保责改字〔2014〕Z1号', 'facts': '我局于2014年5月19日对你单位位于北京市海淀区中关村软件园二期（西扩）C1、L2地块的百度科技园项目进行检查，该项目投资估算18.9亿元，规划总建筑用地面积7.6万平方米，地上建筑面积17万平方米，主要建设内容为研发中心、会议室、展示厅、报告室、图书室、多功能厅、洽谈室等。该项目未办理环评审批手续，已于2013年11月开工，目前正在进行主体工程建设施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：百度在线网络技术（北京）有限公司\n\u3000\u3000法定代表人：王湛\n\u3000\u3000地址：北京市海淀区上地十街10号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c68f9bf8d0d3a5e480b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700637/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市海淀区住房保障服务中心改正违法行为决定书〔2014〕Z2号', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年6月16日', 'announcementCode': '京环保责改字〔2014〕Z 2号', 'facts': '我局于2014年5月20日对你单位位于北京市海淀区北清路北侧的辛店B08地块公共租赁住房项目进行检查，该项目投资估算5.5亿元，总建设用地面积11万平方米。该项目未办理环评审批手续，已于2011年12月开工，目前正处于主体工程建设阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市海淀区住房保障服务中心\n\u3000\u3000法定代表人：裴风菊\n\u3000\u3000地址：北京市海淀区双榆树北里甲22号305室', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c68f9bf8d0d3a5e480d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700630/index.html
+存入parsed_data
+{'announcementTitle': '责令永创兴业（北京）置业有限公司改正违法行为决定书(〔2014〕20号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年5月20日', 'announcementCode': '京环保监察改字〔2014〕20号', 'facts': '我局于2014年5月16日对你单位位于北京市海淀区西北旺镇永丰路以东，永丰工业区南街以北的永丰产业用房及配套设施4-2-134地块项目进行检查，该项目建设酒店，总建筑面积11.2万平方米。该建设项目性质、规模发生重大变化，但未办理环评审批手续，已于2011年11月开工，目前处于主体工程施工阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：永创兴业（北京）置业有限公司\n\u3000\u3000法定代表人：李建涛\n\u3000\u3000地址：北京市海淀区丰智东路11号4层409号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十四条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c69f9bf8d0d3a5e480f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700623/index.html
+存入parsed_data
+{'announcementTitle': '责令北京泰禾置业有限公司改正违法行为决定书(〔2014〕19号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年5月9日', 'announcementCode': '京环保监察改字〔2014〕19号', 'facts': '我局于2014年4月16日对你单位位于北京市通州区台湖镇B-03地块的通州区台湖镇B-03地块（配建公共租赁住房）项目进行检查，该项目建筑控制规模为13.2万平方米，总投资估算16.1亿元，建设内容为住宅、幼儿园及配套。检查发现该项目未办理环评审批手续，但已于2014年3月开工建设，现处于土方开挖阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京泰禾置业有限公司\n\u3000\u3000法定代表人：葛勇\n\u3000\u3000地址：北京市通州区中关村科技园区通州园光机电一体化产业基地政府路2号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c69f9bf8d0d3a5e4811'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700621/index.html
+存入parsed_data
+{'announcementTitle': '责令恒大地产集团北京有限公司改正违法行为决定书(〔2014〕18号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年5月9日', 'announcementCode': '京环保监察改字〔2014〕18号', 'facts': '我局于2014年4月29日对你单位位于朝阳区豆各庄乡黄厂路的朝阳区豆各庄乡土地储备项目B地块、C地块（配套公共租赁房）项目进行调查。该项目主要建设内容为住宅及配套、商业、办公、托幼用房、环保设施等，总投资估算50.8亿元，建筑规模约29万平方米。该项目未办理环保审批手续，但已于2014年3月开工建设，目前正在进行土方施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：恒大地产集团北京有限公司\n\u3000\u3000法定代表人：时守明\n\u3000\u3000地址：北京市朝阳区豆各庄乡水牛坊8号资产运营管理有限公司院内2号楼三层', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款和第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款规定，责令你单位在收到本决定书之日起60日之内，补办环保审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c6af9bf8d0d3a5e4813'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700629/index.html
+存入parsed_data
+{'announcementTitle': '责令中国电信股份有限公司北京分公司改正违法行为决定书(〔2014〕17号)', 'announcementOrg': '39.98793', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2014〕17号', 'facts': '我局于2014年4月1日对你单位进行了调查，发现你单位未经环保部门批准，擅自建设了一批移动通讯基站，共计124座（见附件）。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国电信股份有限公司北京分公司\n\u3000\u3000法定代表人：刘博\n\u3000\u3000地址：北京市东城区朝阳门北大街21号16层', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令你单位停止建设，并且在收到本决定书之日起，限2个月内办理环评审批手续，同时将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c6bf9bf8d0d3a5e4815'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700620/index.html
+存入parsed_data
+{'announcementTitle': '责令北京华腾天海环保科技有限公司改正违法行为决定书(〔2014〕16号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年4月23日', 'announcementCode': '京环保监察改字〔2014〕16号', 'facts': '我局于2014年4月16日对你公司位于北京市大兴区安定镇兴安营村东的北京华腾天海环保科技有限公司厂区进行检查，发现你公司于2013年10月，对废溶剂回收装置进行了改造，主要改造内容为拆除两套蒸馏釜，更换为两塔精馏和三塔精馏；将三套蒸馏釜由单塔改为双塔，2013年12月改造工程已经完工。该工程生产工艺发生重大变化，但未重新报批环评审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京华腾天海环保科技有限公司\n\u3000\u3000法定代表人：陶国扬\n\u3000\u3000地址：北京市大兴区安定镇兴安营村东', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十四条第一款的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令你单位在收到本决定书之日起90日之内，补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c6cf9bf8d0d3a5e4817'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700614/index.html
+存入parsed_data
+{'announcementTitle': '责令北京兴青红精细化学品科技有限公司改正违法行为决定书(〔2014〕15号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年4月23日', 'announcementCode': '京环保监察改字〔2014〕15号', 'facts': '我局于2014年4月14日对你公司位于北京市大兴区安定镇北京大兴精细化工基地的北京兴青红精细化学品科技有限公司厂区进行检查，发现你公司正在建设电子工业用超净高纯试剂生产及循环使用项目，建设内容为11800吨利用废弃化学品循环利用生产线及超净高纯试剂20000吨的生产线。该项目未经环保部门审批，已于2013年11月开工建设，目前正在建设废酸液储灌防渗漏围堰。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京兴青红精细化学品科技有限公司\n\u3000\u3000法定代表人：冯留启\n\u3000\u3000地址：北京市大兴区青云店镇青云店中学东侧100米', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款和第二十五条的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起90日之内，补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c6df9bf8d0d3a5e4819'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700612/index.html
+存入parsed_data
+{'announcementTitle': '责令中国石油化工股份有限公司北京燕山分公司改正违法行为决定书(〔2014〕14号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年4月16日', 'announcementCode': '京环保监察改字〔2014〕14号', 'facts': '我局于2014年３月27日对你单位位于北京市房山区燕山岗南路１号的中国石油化工股份有限公司北京燕山分公司化工二厂厂区内的3万吨/年异戊橡胶装置建设项目进行现场检查，该项目占地面积为1774平方米，总投资2.60586亿元，主要包括异戊橡胶主装置区、后处理及胶库、控制室、储罐区。该项目未办理环评审批手续，但已于2012年8月开工建设，2013年10月已经建成。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国石油化工股份有限公司北京燕山分公司\n\u3000\u3000法定代表人：罗强\n\u3000\u3000地址：北京市房山区燕山岗南路１号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c6df9bf8d0d3a5e481b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700610/index.html
+存入parsed_data
+{'announcementTitle': '责令中国石油化工股份有限公司北京燕山分公司改正违法行为决定书(〔2014〕13号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年4月16日', 'announcementCode': '京环保监察改字〔2014〕13号', 'facts': '我局于2014年３月27日对你单位位于北京市房山区燕山岗南路１号的中国石油化工股份有限公司北京燕山分公司橡胶厂厂区内的3万吨/年稀土/镍系柔性顺丁橡胶装置建设项目进行检查，该项目占地面积为28488.80平方米，总投资2.0487亿元，主要包括生产装置，储运、公用及配套工程。该项目未办理环评审批手续，但已于2011年11月开始建设，2013年10月已经建成。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国石油化工股份有限公司北京燕山分公司\n\u3000\u3000法定代表人：罗强\n\u3000\u3000地址：北京市房山区燕山岗南路１号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c6ef9bf8d0d3a5e481d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700606/index.html
+存入parsed_data
+{'announcementTitle': '责令中国石油化工股份有限公司北京燕山分公司改正违法行为决定书（〔2014〕12号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年4月16日', 'announcementCode': '京环保监察改字〔2014〕12号', 'facts': '我局于2014年３月27日对你单位位于北京市房山区燕山岗南路１号的中国石油化工股份有限公司北京燕山分公司化工一厂厂区内的15万吨/年碳五分离装置建设项目进行检查，该项目主装置区位于化一新裂解装置北侧，占地面积为6525平方米，总投资2.763亿元，主要包括碳五分离装置、产品罐区、循环水场和汽车装卸站。该项目未办理环评审批手续，但已于2012年9月开工建设，2013年11月已经建成。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国石油化工股份有限公司北京燕山分公司\n\u3000\u3000法定代表人：罗强\n\u3000\u3000地址：北京市房山区燕山岗南路１号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c6ef9bf8d0d3a5e481f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700601/index.html
+存入parsed_data
+{'announcementTitle': '责令中国人民解放军第三0五医院改正违法行为决定书(〔2014〕11号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年4月11日', 'announcementCode': '京环保监察改字〔2014〕11号', 'facts': '我局于2014年3月6日对你单位进行了调查，发现你单位一台血管造影机（II类射线装置）已于2011年5月开始使用；一台SPECT/CT机（III类射线装置）已于2012年6月开始使用，但均未办理环保验收手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国人民解放军第三0五医院\n\u3000\u3000法定代表人：沙杭\n\u3000\u3000地址：北京市西城区文津街甲13号', 'punishmentBasement': '你单位的上述行为违反了《建设项目环境保护管理条例》第二十三条的规定', 'punishmentDecision': '依据《建设项目环境保护管理条例》第二十八条的规定，责令你单位在收到本决定书之日起停止使用，经环保验收合格后方可投入使用，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c6ff9bf8d0d3a5e4821'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700599/index.html
+存入parsed_data
+{'announcementTitle': '责令北京宏展投资管理有限公司改正违法行为决定书([2014]10号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2014年4月3日', 'announcementCode': '[2014]10号', 'facts': '我局于2014年3月14日对你公司位于北京市大兴区旧宫镇的大兴区西广德定向安置房项目进行现场检查，该项目建筑规模约为14万平方米（含地下面积），总投资约4.91亿元。该项目未办理环评审批手续，但已于2014年2月25日开工建设，目前土方施工已经结束，正在进行护坡和地基处理工作。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京宏展投资管理有限公司\n\u3000\u3000法定代表人：寇爱云\n\u3000\u3000地址：北京市大兴区旧宫镇旧宫中路88号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令你单位在收到本决定书之日起60日之内，补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c6ff9bf8d0d3a5e4823'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700598/index.html
+存入parsed_data
+{'announcementTitle': '责令北京东方瑞平房地产开发有限公司改正违法行为决定书(〔2014〕9号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2014〕9号', 'facts': '我局于2014年3月10日对你单位位于北京市朝阳区崔各庄乡的朝阳区东郊农场保障E地块公租赁房项目进行调查，该项目主要建设住宅及配套设施，建筑规模约23万平方米，总投资18亿元。该项目未办理环保审批手续，但已于2011年12月开工建设，目前正在进行主体结构工程建设，已完成总工程量的约80%。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京东方瑞平房地产开发有限公司\n\u3000\u3000法定代表人：马青山\n\u3000\u3000地址：北京市朝阳区京顺路香江北路8号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位在收到本决定书之日起60日之内，补办环保审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c70f9bf8d0d3a5e4825'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700595/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市保障性住房建设投资中心改正违法行为决定书(〔2014〕8号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2014〕8号', 'facts': '我局于2014年2月28日对你单位位于朝阳区常营乡的朝阳区常营三期剩余地块公共租赁住房项目进行检查，该项目总投资7.1亿元，建筑控制规模约17万平方米，建设内容为住宅及配套公共服务设施、商业、小学及幼儿园。该项目至今未取得环保部门的审批批复，但已于2013年4月开工建设，目前正在进行主体结构施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市保障性住房建设投资中心\n\u3000\u3000法定代表人：金焱\n\u3000\u3000地址：北京市海淀区西四环中路16号院3号楼c座4层', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起60日之内，补办环保审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c70f9bf8d0d3a5e4827'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700590/index.html
+存入parsed_data
+{'announcementTitle': '责令北京八亿时空液晶科技股份有限公司改正违法行为决定书(〔2014〕7号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2014〕7号', 'facts': '我局于2014年2月21日对你单位位于北京市房山区北京石化新材料科技产业基地核心区东区B2-36-01地块的北京八亿时空液晶科技股份有限公司年产100吨显示用液晶材料项目进行检查，该项目投资估算3.26亿元，规划总建筑面积41257平方米。该项目未办理环评审批手续，已于2013年6月开工，处于土地平整阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京八亿时空液晶科技股份有限公司\n法定代表人：赵雷\n地址：北京市房山区燕山岗南路东一巷6号C座218房间', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c71f9bf8d0d3a5e4829'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700583/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市房山城市投资发展有限责任公司改正违法行为决定书(〔2014〕6号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2014〕6号', 'facts': '我局于2014年1月7日对你单位位于北京市房山区青龙湖镇豆各庄村的房山区北部山区人口迁移青龙湖棚户区改造定向安置房项目进行检查，该项目总建筑规模19.16万平方米，其中地上建筑规模为15.89万平方米，地下建筑规模为3.27万平方米。该项目未办理环评审批手续，但已于2013年3月开工，目前正在进行主体结构建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市房山城市投资发展有限责任公司\n法定代表人：王海平\n地址：北京市房山区良乡拱辰北大街1号昊天假日酒店A601', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c71f9bf8d0d3a5e482b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700579/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市房山城市投资发展有限责任公司改正违法行为决定书(〔2014〕5号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2014〕5号', 'facts': '我局于2014年1月7日对你单位位于北京市房山区良乡镇中心区的房山区北部山区人口迁移良乡棚户区改造定向安置房项目进行检查，该项目总建筑规模24.18万平方米，其中地上建筑规模为20.41万平方米，地下建筑规模为3.77万平方米。该项目未办理环评审批手续，但已于2013年3月开工，目前正在进行6个楼栋的主体结构建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市房山城市投资发展有限责任公司\n法定代表人：王海平\n地址：北京市房山区良乡拱辰北大街1号昊天假日酒店A601', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c72f9bf8d0d3a5e482d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700578/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市房山城市投资发展有限责任公司改正违法行为决定书(〔2014〕4号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2014〕4号', 'facts': '我局于2014年1月7日对你单位位于北京市房山区阎村镇公主坟村的房山区北部山区人口迁移阎村棚户区改造定向安置房二期（A、C区）项目进行检查，该项目总建筑规模226125.2平方米，其中地上建筑规模为204049.6平方米，地下建筑规模为22075.6平方米。该项目未办理环评审批手续，但已于2013年3月开工，现正在进行主体结构建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市房山城市投资发展有限责任公司\n法定代表人：王海平\n地址：北京市房山区良乡拱辰北大街1号昊天假日酒店A601', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c72f9bf8d0d3a5e482f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700587/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市天竺房地产开发公司改正违法行为决定书(〔2014〕3号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2013年2月10日', 'announcementCode': '京环保监察改字〔2014〕3号', 'facts': '我局于2014年1月2日对你单位位于北京市顺义区后沙峪镇的燕王庄村、西田各庄村定向安置房项目进行检查，该项目规划建设用地面积约5.5公顷，地上总建筑面积约10.75万平方米。该项目未办理环评审批手续，但已于2011年8月开工建设，2013年6月完成了工程建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市天竺房地产开发公司\n法定代表人：任建军\n地址：北京市顺义区天竺镇政府街', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c73f9bf8d0d3a5e4831'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700586/index.html
+存入parsed_data
+{'announcementTitle': '责令科诺（北京）木业有限公司改正违法行为决定书(〔2014〕2号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2014〕2号', 'facts': '我局于2014年1月14日对你单位辐射安全和防护工作进行了检查，你单位使用料位计，内含1枚V类放射源，检查中发现你单位未对辐射场所进行辐射监测；未对辐射工作人员进行辐射安全培训和个人剂量监测。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：科诺（北京）木业有限公司\n法定代表人：邓广均\n地址：北京市丰台区永定门外大红门西路4号', 'punishmentBasement': '你单位的上述行为违反了《放射性同位素与射线装置安全和防护管理办法》第九条、第十七条、第二十三条第一款的规定', 'punishmentDecision': '依据《放射性同位素与射线装置安全和防护管理办法》第五十五条第（一）、（三）、（四）项的规定，责令你单位于2014年5月31日前完成辐射场所监测、人员培训以及个人剂量监测工作，并将改正情况书面报告我局。 \n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c73f9bf8d0d3a5e4833'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700572/index.html
+存入parsed_data
+{'announcementTitle': '责令北京地铁十五号线投资有限责任公司改正违法行为决定书(〔2014〕1号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2014〕1号', 'facts': '我局于2014年1月13日对你单位的地铁十五号线一期西延工程项目的施工现场进行检查，该项目东起北沙滩站（不含），西至清华东站，全长2.7公里，总投资26亿元。该项目未办理环评审批手续，但已于2013年初开工建设，目前处于土方开挖阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京地铁十五号线投资有限责任公司\n\u3000\u3000法定代表人：李建国\n\u3000\u3000地址：北京市朝阳区小营北路6号京投大厦2号楼917', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c74f9bf8d0d3a5e4835'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700571/index.html
+存入parsed_data
+{'announcementTitle': '责令中建一局集团第三建筑有限公司改正违法行为决定书(〔2013〕32号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕32号', 'facts': '我局于2013年10月12日对你单位位于北京市房山区长阳镇稻田村房山长阳职工住宅项目进行检查，该项目总建设规模10.3万平方米，主要建设住宅及配套共建。该项目未办理环评审批手续，但已于2010年10月开工，目前主体结构已封顶，正在进行室内外装修。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中建一局集团第三建筑有限公司\n\u3000\u3000法定代表人：程先勇\n\u3000\u3000地址：北京市崇文区永定门内东街中里9-17号3042房间', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c74f9bf8d0d3a5e4837'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700569/index.html
+存入parsed_data
+{'announcementTitle': '责令中铁房地产集团北京正达置业有限公司改正违法行为决定书(〔2013〕31号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕31号', 'facts': '我局于2013年10月12日对你单位位于北京市房山区长阳镇的中国铁建国际花园项目进行检查，该项目总建筑控制规模21.4万平方米，建设内容为住宅、商业金融、托幼、中小学及配套。该项目未办理环评审批手续，但已于2013年2月开工建设，目前主体结构即将封顶。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中铁房地产集团北京正达置业有限公司\n\u3000\u3000法定代表人：王晓飞\n\u3000\u3000地址：北京市房山区长阳镇张家场村村北20米', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起6个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c75f9bf8d0d3a5e4839'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700564/index.html
+存入parsed_data
+{'announcementTitle': '责令北京和祥恒房地产开发有限公司改正违法行为决定书(〔2013〕30号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕30号', 'facts': '我局于2013年10月25日对你单位位于朝阳区北苑路78号的康斯丹郡小区项目进行检查，该项目主要建设住宅及配套共建，总建筑面积7.8万平方米。该项目已于2001年开工建设，2004年工程竣工，但至今未依法报批环境影响评价审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京和祥恒房地产开发有限公司\n\u3000\u3000法定代表人：吴晨\n\u3000\u3000地址：北京市朝阳区北辰东路8号北京国际会议中心八层西区', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位在收到本决定书之日起60日之内，补办环保审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c75f9bf8d0d3a5e483b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700556/index.html
+存入parsed_data
+{'announcementTitle': '责令北京燕广置业有限责任公司改正违法行为决定书(〔2013〕29号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕29号', 'facts': '我局于2013年11月11日对你单位位于北京市丰台区南苑西路23号的保障性住房项目进行了调查，该项目建筑面积为18.1万平方米，拟建设1900套住房及配套幼儿园等，用于安置西城区疏散人口。该项目未办理环评审批手续，但已于2013年5月开始施工，现正在进行土方施工作业。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京燕广置业有限责任公司\n\u3000\u3000法定代表人：沈怡宏\n\u3000\u3000地址：北京市西城区樱桃斜街5号1幢、2幢', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设、限期在收到本决定书之日起60日之内，补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c76f9bf8d0d3a5e483d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700554/index.html
+存入parsed_data
+{'announcementTitle': '责令北京东方京海投资有限公司改正违法行为决定书(〔2013〕28号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕28号', 'facts': '我局于2013年9月26日对你单位位于北京市顺义区顺义新城第20街区20-72、20-81地块建设的海航北京后沙峪综合配套基地项目进行了调查，该项目总用地面积165155平方米，建筑规模130192平方米，建设内容为住宅及配套、商业、办公，总投资估算104950万元。该项目未办理环评审批手续，已于2013年3月份开工建设，目前项目处于主体结构施工阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京东方京海投资有限公司\n\u3000\u3000法定代表人：范睿\n\u3000\u3000地址：北京市顺义区后沙峪镇安富街6号312室', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款和第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位在收到本决定书之日起60日之内，停止建设，限期补办环评审批手续，并将完成情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c77f9bf8d0d3a5e483f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700555/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市公联公路联络线有限责任公司改正违法行为决定书(〔2013〕27号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕27号', 'facts': '我局于2013年10月29日对你单位位于北京市房山区的京良路（六环路—批发市场中轴路）道路改建工程项目进行检查，发现该项目的建设地点发生重大变动，但未重新报批环评审批手续，擅自开工建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市公联公路联络线有限责任公司\n\u3000\u3000法定代表人：戴景珠\n\u3000\u3000地址：北京市朝阳区酒仙桥村1号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十四条第一款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起30日之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c77f9bf8d0d3a5e4841'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700553/index.html
+存入parsed_data
+{'announcementTitle': '责令北京宏图建业投资管理中心改正违法行为决定书(〔2013〕26号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕26号', 'facts': '我局于2013年9月27日对你单位位于北京市大兴区旧宫镇绿隔产业项目进行了调查，该项目占地13公顷，总投资约30亿元，拟建设非物质文化遗产项目及配套设施。该项目未依法报批环境影响评价文件，已于2012年10月擅自开工建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京宏图建业投资管理中心\n\u3000\u3000法定代表人：杨君山\n\u3000\u3000地址：北京市大兴区旧宫镇庑殿路6号楼6-1室', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、二十五条的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起90日之内，补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c78f9bf8d0d3a5e4843'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700547/index.html
+存入parsed_data
+{'announcementTitle': '责令北京青龙湖国际会展有限公司改正违法行为决定书(〔2013〕25号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕25号', 'facts': '我局于2013年9月30日对你单位位于北京市丰台区王佐镇的北京青龙湖国际文化会都核心区A-03地块酒店项目进行检查，该项目建设内容为酒店及附属配套设施，总建筑面积7.5万平方米（不含地下）,总投资9.9亿元。该项目未办理环评审批手续，但已于2013年7月开始施工，目前正在进行主体结构建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京青龙湖国际会展有限公司\n\u3000\u3000法定代表人：左坤\n\u3000\u3000地址：北京市丰台区云岗新村粮店东50米', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起60日之内，补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c78f9bf8d0d3a5e4845'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700545/index.html
+存入parsed_data
+{'announcementTitle': '责令北京国信嘉业房地产开发有限公司改正违法行为决定书(〔2013〕24号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕24号', 'facts': '我局于2013年9月5日对你单位位于北京市门头沟区永定镇小园地块的东辛称等村综合改造定向安置房项目进行检查，该项目主要用于被拆迁人员定向安置，总建筑控制规模9.27万平方米，总投资估算6.27亿元。该项目未办理环评审批手续，但已于2010年底开工建设，2012年底建筑工程已经竣工，配套的部分商业设施和地下车库还在建设之中。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京国信嘉业房地产开发有限公司\n\u3000\u3000法定代表人：马军\n\u3000\u3000地址：北京市门头沟区新桥南大街44号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c79f9bf8d0d3a5e4847'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700542/index.html
+存入parsed_data
+{'announcementTitle': '责令北京国信嘉业房地产开发有限公司改正违法行为决定书(〔2013〕23号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕23号', 'facts': '我局于2013年9月5日对你单位位于北京市门头沟区永定镇的小园定向安置房项目进行检查，该项目共6栋建筑，总建筑面积12.6万平方米。该项目未办理环评审批手续，但已于2011年4月开工，目前主体结构已封顶，正在进行室内外装修。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京国信嘉业房地产开发有限公司\n\u3000\u3000法定代表人：马军\n\u3000\u3000地址：北京市门头沟区新桥南大街44号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c79f9bf8d0d3a5e4849'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700541/index.html
+存入parsed_data
+{'announcementTitle': '责令北京国信嘉业房地产开发有限公司改正违法行为决定书(〔2013〕22号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕22号', 'facts': '我局于2013年9月5日对你单位位于北京市门头沟区永定镇的门头沟S1线区域组团01-11地块及曹各庄、桥户营村土地一级开发小园地块定向安置房项目进行检查，该项目总建筑控制规模28.1万平方米，总投资估算22.69亿元。该项目未办理环评审批手续，但已于2011年4月开工，目前主体结构已封顶，正在进行室内外装修。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京国信嘉业房地产开发有限公司\n\u3000\u3000法定代表人：马军\n\u3000\u3000地址：北京市门头沟区新桥南大街44号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7af9bf8d0d3a5e484b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700024/index.html
+存入parsed_data
+{'announcementTitle': '责令北京国信嘉业房地产开发有限公司改正违法行为决定书(〔2013〕21号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕21号', 'facts': '我局于2013年9月5日对你单位位于北京市门头沟区永定镇曹各庄定向安置房项目进行检查，该项目总建筑控制规模36.4万平方米，总投资25.2亿元。该项目未办理环评审批手续，但已于2011年4月开工，目前主体结构已封顶，正在进行室内外装修。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京国信嘉业房地产开发有限公司\n\u3000\u3000法定代表人：马军\n\u3000\u3000地址：北京市门头沟区新桥南大街44号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，自收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7af9bf8d0d3a5e484d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700023/index.html
+存入parsed_data
+{'announcementTitle': '责令北京华生伟业工贸有限公司改正违法行为决定书（〔2013〕20号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕20号', 'facts': '我局于2013年9月6日对你公司位于北京市通州区张家湾镇垡头村西生产现场进行检查，你公司主要从事铸件加工生产，年产约200吨铸件。检查发现你公司造型、熔炼、浇注、落砂、铸件清理等多处产生粉尘的生产工序未设置密闭排气系统，不符合《铸锻工业大气污染物排放标准》（DB11/914-2012）6.2.1要求，属于向大气散发粉尘物质未采取任何防护措施，造成粉尘无组织逸散。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京华生伟业工贸有限公司\n\u3000\u3000法定代表人：付泽强\n\u3000\u3000地址：北京市通州区张家湾镇垡头村西', 'punishmentBasement': '你单位的上述行为违反了《北京市实施<中华人民共和国大气污染防治法>办法》第二十七条第一款的规定', 'punishmentDecision': '依据该法第三十五条第一款第（六）项的规定，责令你单位停止违法行为，并自收到本决定书之日起，于2013年12月31日前，按照《铸锻工业大气污染物排放标准》（DB11/914-2012）要求，完成产生粉尘生产工序设置密闭排气系统的整改工作，同时将改正情况书面报告我局。 \n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7bf9bf8d0d3a5e484f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700018/index.html
+存入parsed_data
+{'announcementTitle': '责令北京垡头铸造有限公司改正违法行为决定书（〔2013〕19号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕19号', 'facts': '我局于2013年9月6日对你公司位于北京市通州区张家湾镇垡头村西生产现场进行检查，你公司主要从事铸件加工生产，年产约1500吨铸件。检查发现你公司造型、熔炼、浇注、落砂、铸件清理等多处产生粉尘的生产工序未设置密闭排气系统，不符合《铸锻工业大气污染物排放标准》（DB11/914-2012）6.2.1要求，属于向大气散发粉尘物质未采取任何防护措施，造成粉尘无组织逸散。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京垡头铸造有限公司\n\u3000\u3000法定代表人：季树海\n\u3000\u3000地址：北京市通州区张家湾镇垡头村西', 'punishmentBasement': '你单位的上述行为违反了《北京市实施<中华人民共和国大气污染防治法>办法》第二十七条第一款的规定', 'punishmentDecision': '依据该法第三十五条第一款第（六）项的规定，责令你单位停止违法行为，并自收到本决定书之日起，在2013年12月31日前，按照《铸锻工业大气污染物排放标准》（DB11/914-2012）要求，完成粉尘产生工序设置密闭排气系统的整改工作，同时将改正情况书面报告我局。 \n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7bf9bf8d0d3a5e4851'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700016/index.html
+存入parsed_data
+{'announcementTitle': '责令北京翰达金晟置业有限公司改正违法行为决定书（〔2013〕18 号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2013年9月4日', 'announcementCode': '京环保监察改字〔2013〕18 号', 'facts': '我局于2013年9月4日对你单位位于北京市丰台区南苑乡大红门村的居住（配建限价商品房）项目进行了检查，该项目占地10.3万平方米，总建筑面积14.8万平方米，总投资16亿元，未办理环评审批手续，但已于2012年10月开始施工，现主体建筑已基本完工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京翰达金晟置业有限公司\n\u3000\u3000法定代表人：陈重才\n\u3000\u3000地址：北京市丰台区马家堡东路88号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，限期在收到本决定书之日起60日之内，补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7cf9bf8d0d3a5e4853'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700090/index.html
+存入parsed_data
+{'announcementTitle': '责令北京汽车城投资管理有限公司改正违法行为决定书（〔2013〕17号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕17号', 'facts': '我局于2013年7月8日对你单位进行了调查，发现你单位在北京市顺义区顺平路北侧建设望泉寺公租房项目，该项目规划用地30.9万平方米，建筑规模为40.9万平方米，总投资28.96亿元。该项目已于2012年12月开工建设，但未报批环境影响评价文件,目前项目正处于主体结构施工阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京汽车城投资管理有限公司\n\u3000\u3000法定代表人：赵洪峰\n\u3000\u3000地址：\xa0 北京市顺义区顺通路西侧', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条和第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设该项目，在收到本决定书之日起60日之内，补办环评审批手续，并将完成情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7cf9bf8d0d3a5e4855'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700085/index.html
+存入parsed_data
+{'announcementTitle': '责令北京建机房地产有限责任公司改正违法行为决定书（〔2013〕16号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕16号', 'facts': '我局于2013年8月20日对你单位位于北京市丰台区南苑乡石榴庄南里7号的北京开关厂定向安置房项目进行检查，该项目占地面积6.26公顷，总建筑面积24万m2，总投资14亿元，未办理环评审批手续，但已于2013年4月开始土方施工，现正在进行主体结构工程建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京建机房地产有限责任公司\n\u3000\u3000法定代表人：蒋自力\n\u3000\u3000地址：北京市东城区绿景馨园东区12号楼五层', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位在收到本决定书之日起60日之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7df9bf8d0d3a5e4857'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700083/index.html
+存入parsed_data
+{'announcementTitle': '责令北京东方石油化工有限公司化工四厂改正违法行为决定书（〔2013〕15号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕15号', 'facts': '我局于2013年7月18日对你单位进行了调查，发现你单位有机溶剂生产废水处理过程中产生的污泥，存放于污泥池内，总量约15吨，属于危险废物（列入《国家危险废物名录》，废物代码261-076-42，废物类别HW42）。经查，最近一次污泥处置时间为2011年4月，至今贮存时间已经超过了1年，但没有经过环保部门的延期审批。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京东方石油化工有限公司化工四厂\n\u3000\u3000负责人：邓勇\n\u3000\u3000地址：北京市房山区街道马各庄村', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国固体废物污染环境防治法》第五十八条第二款的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位在收到本决定书之日起60日之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7df9bf8d0d3a5e4859'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700079/index.html
+存入parsed_data
+{'announcementTitle': '责令北京机电工程研究所改正违法行为决定书（〔2013〕14号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕14号', 'facts': '我局于2013年7月29日对你单位位于北京市丰台区云岗北里40号的高超中心综合楼项目进行检查，该项目建筑面积为20003.12平方米,总投资1.432亿元,未办理环评审批手续，但已于2012年9月开工,现处于主体工程建设阶段。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京机电工程研究所(航天科工飞航技术研究开发中心)\n\u3000\u3000法定代表人：张红文\n\u3000\u3000地址： 北京市丰台区云岗北里40号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定。责令你单位停止建设，在收到本决定书之日起60日之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7ef9bf8d0d3a5e485b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700074/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市双桥农工商公司改正违法行为决定书（〔2013〕13号）', 'announcementOrg': '2013年7月30日', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕13号', 'facts': '我局于2013年7月2日对你单位位于北京市朝阳区双桥地区开发建设的双桥京桥1号地公共租赁住房项目进行现场检查，该项目总建筑面积14.7万平方米，未办理环评审批手续，已于2012年7月擅自开工建设，目前已完成工程主体结构建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市双桥农工商公司\n\u3000\u3000法定代表人：张保华\n\u3000\u3000地址：北京市朝阳区双桥', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定。责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7ff9bf8d0d3a5e485d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700070/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市基础设施投资有限公司改正违法行为决定书（[2013]12号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2013年6月13日', 'announcementCode': '[2013]12号', 'facts': '我局于2013年6月4日对你单位位于北京市门头沟区的潭柘寺镇土地一级开发A地块的潭柘寺镇定向安置房项目（一期）进行检查，该项目在门头沟区潭柘寺镇东村、南村、北村、鲁家滩村建设回迁安置房，总建筑面积26.59万m2。该项目未办理环评审批手续，但已于2012年10月开始土方施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市基础设施投资有限公司（原北京地铁集团有限责任公司）\n\u3000\u3000法定代表人：王琪\n\u3000\u3000地址：北京市朝阳区小营北路6号京投大厦2号楼9层908室', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定。责令你单位停止建设，在收到本决定书之日起2个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c7ff9bf8d0d3a5e485f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700071/index.html
+存入parsed_data
+{'announcementTitle': '责令中国联合网络通信有限公司北京市分公司改正违法行为决定书（〔2013〕11号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕11号', 'facts': '我局于2013年5月23日对你单位位于北京市海淀区花园桥花园村9号楼北侧的无线网络通信基站进行检查，该基站于2012年9月建成,但未办理环评审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国联合网络通信有限公司北京市分公司\n\u3000\u3000法定代表人：汪世昌\n\u3000\u3000地址：北京市西城区复兴门南大街6号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令停止违法行为，并在收到本决定书之日起，限期2个月内补办环评审批手续，同时将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c80f9bf8d0d3a5e4861'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700069/index.html
+存入parsed_data
+{'announcementTitle': '责令北京金胜嘉谊房地产开发有限公司改正违法行为决定书（〔2013〕10号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕10号', 'facts': '我局于2013年5月24日对你单位位于大红门西路16号的定向安置房项目进行检查，该项目总建筑面积12万平方米，已于2012年9月开工建设，但未依法报批环境影响评价文件。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京金胜嘉谊房地产开发有限公司\n\u3000\u3000法定代表人：陈松石\n\u3000\u3000地址：北京市丰台区太平桥小区8号楼甲1号2幢308', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设该项目，在收到本决定书之日起30日之内，补办环保审批手续，同时将改正情况书面报告我局。 \n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c82f9bf8d0d3a5e4863'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700015/index.html
+存入parsed_data
+{'announcementTitle': '责令中国移动通信集团北京有限公司改正违法行为决定书([2013]9号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '[2013]9号', 'facts': '我局于2013年4月22日对你单位位于北京市朝阳区域清街融域嘉园小区北侧的无线网络通讯基站进行检查，该基站于2012年4月建成，但未办理环评审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国移动通信集团北京有限公司\n\u3000\u3000法定代表人：董昕\n\u3000\u3000地址：北京市东城区东直门南大街7号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令你单位停止违法行为，并且在收到本决定书之日起，限2个月内办理环评审批手续，同时将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c82f9bf8d0d3a5e4865'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700001/index.html
+存入parsed_data
+'NoneType' object has no attribute 'group'
+{'announcementTitle': '责令经济日报社改正违法行为决定书(〔2013〕8号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕8号', 'facts': '我局会同北京市环境保护监测中心对你单位“噪声扰民问题”进行了调查。你单位位于北京市西城区白纸坊东街2号，周边以居民住宅为主，依据2004年《宣武区城市区域环境噪声适用区域划分》(北京市宣武区人民政府通告第1号)，你单位所在区域属1类噪声功能区。北京市环境保护监测中心在你单位西侧厂界投诉人卧室，对你单位水泵、地热泵、冷却交换泵等固定噪声设备通过建筑物结构传播的室内噪声进行监测，结果（报告编号：XF13003）显示，排放值（等效声级）为35dB（A）,超过了《工业企业厂界环境噪声排放标准》（GB12348-2008）“结构传播固定设备室内噪声排放限值（等效声级）”中1类功能区、A类房间、夜间30 dB（A）的规定；倍频带中心频率63Hz的排放值（室内噪声倍频带声压级）为64.9dB，超过了《工业企业厂界环境噪声排放标准》（GB12348-2008）“结构传播固定设备室内噪声排放限值（倍频带声压级）”中1类功能区、A类房间、夜间51 dB的规定，目前有附近居民投诉你单位噪声污染问题。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：经济日报社\n\u3000\u3000法定代表人：徐如俊\n\u3000\u3000地址：北京市西城区白纸坊东街2号\n\u3000\u3000（法人证书住所：北京市宣武区白纸坊东街2号）\n\u3000\u30002013年3月21日夜间，', 'punishmentBasement': '', 'punishmentDecision': '依据2004年《宣武区城市区域环境噪声适用区域划分》(北京市宣武区人民政府通告第1号)，你单位所在区域属1类噪声功能区。北京市环境保护监测中心在你单位西侧厂界投诉人卧室，对你单位水泵、地热泵、冷却交换泵等固定噪声设备通过建筑物结构传播的室内噪声进行监测，结果（报告编号：XF13003）显示，排放值（等效声级）为35dB（A）,超过了《工业企业厂界环境噪声排放标准》（GB12348-2008）“结构传播固定设备室内噪声排放限值（等效声级）”中1类功能区、A类房间、夜间30 dB（A）的规定；倍频带中心频率63Hz的排放值（室内噪声倍频带声压级）为64.9dB，超过了《工业企业厂界环境噪声排放标准》（GB12348-2008）“结构传播固定设备室内噪声排放限值（倍频带声压级）”中1类功能区、A类房间、夜间51 dB的规定，目前有附近居民投诉你单位噪声污染问题。\n\u3000\u3000上述事实有信访处理单（2013-07311）、现场检查笔录、监测报告、事业单位法人证书、照片等证据为凭。\n\u3000\u3000依据《北京市环境噪声污染防治办法》第十条第一款的规定，责令你单位在收到本决定书之日起30日之内，对噪声源进行治理，确保结构传播固定设备室内噪声达标排放，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未完成治理任务的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c83f9bf8d0d3a5e4867'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700002/index.html
+存入parsed_data
+{'announcementTitle': '责令北京青龙湖国际会展有限公司改正违法行为决定书(〔2013〕7号)', 'announcementOrg': '你单位如对本决定不服，可在收到本决定书之日起六十日内向环境保护部或者北京市人民政府申请行政复议，也可在收到本决定书之日起三个月内向海淀区人民法院提起行政诉讼。', 'announcementDate': 'Bad date', 'announcementCode': '京环保监察改字〔2013〕7号', 'facts': '我局于2013年3月7日对你单位位于丰台区王佐镇青龙湖北洛平村的北京青龙湖国际会展酒店项目进行了现场调查，发现该项目环境影响评价文件未报批，已于2012年12月开工建设。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京青龙湖国际会展有限公司\n\u3000\u3000法定代表人：刘湘\n\u3000\u3000地址：北京市丰台区云岗新村粮店东50米', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条和第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设该项目，自收到本决定书之日起60日之内补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c84f9bf8d0d3a5e4869'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700000/index.html
+存入parsed_data
+{'announcementTitle': '责令中国联合网络通信有限公司北京市分公司改正违法行为决定书〔[2013]6号)', 'announcementOrg': '你单位如对本决定不服，可在收到本决定书之日起六十日内向环境保护部或者北京市人民政府申请行政复议，也可在收到本决定书之日起三个月内向海淀区人民法院提起行政诉讼。', 'announcementDate': 'Bad date', 'announcementCode': '[2013]6号', 'facts': '我局于2013年2月28日对你单位位于北京市东城区忠实里四巷的无线网络通信基站进行检查，该基站已经于2011年11月建成,但未办理环评审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国联合网络通信有限公司北京市分公司\n\u3000\u3000法定代表人：汪世昌\n\u3000\u3000地址：北京市西城区复兴门南大街6号\n\u3000\u3000接群众举报，', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令停止违法行为，并在收到本决定书之日起，限2个月内补办环评手续，同时将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c84f9bf8d0d3a5e486b'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700003/index.html
+存入parsed_data
+{'announcementTitle': '责令中国移动通信集团北京有限公司顺义分公司改正违法行为决定书([2013]5号)', 'announcementOrg': '你单位如对本决定不服，可在收到本决定书之日起六十日内向环境保护部或者北京市人民政府申请行政复议，也可在收到本决定书之日起三个月内向海淀区人民法院提起行政诉讼。', 'announcementDate': 'Bad date', 'announcementCode': '[2013]5号', 'facts': '我局于2013年2月21日对你单位位于顺义区万科四季花城西侧的无线通讯基站进行检查，发现该基站于2013年1月已经建成，但未办理环评审批手续。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中国移动通信集团北京有限公司顺义分公司\n\u3000\u3000法定代表人：金川\n\u3000\u3000地址：北京市顺义区府前东街甲9号2层\n\u3000\u3000接到群众投诉，', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令停止违法行为，并在收到本决定书之日起，限2个月内补办环评手续，同时将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c85f9bf8d0d3a5e486d'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700004/index.html
+存入parsed_data
+{'announcementTitle': '责令蒙牛乳业（北京）有限责任公司改正违法行为决定书([2013]4号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '[2013]4号', 'facts': '我局于2012年12月20日对你单位进行了现场调查，在位于通州区食品工业园区一区1号的生产二楼化验室内，发现一台用于乳制品中残留农药和兽药检测的气象色谱仪（450GC型），此仪器内含一枚Ni（镍）-63放射源（属Ⅴ类），但你单位未取得辐射安全许可证。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：蒙牛乳业（北京）有限责任公司\n\u3000\u3000法定代表人：张世新\n\u3000\u3000地址：北京市通州区食品工业园区一区1号', 'punishmentBasement': '你单位的上述行为违反了《放射性同位素与射线装置安全和防护条例》第十五条第一款的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令停止违法行为，并在收到本决定书之日起，限2个月内补办环评手续，同时将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c85f9bf8d0d3a5e486f'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700098/index.html
+存入parsed_data
+{'announcementTitle': '责令北京市房山区公共租赁住房发展中心改正违法行为决定书([2013]3号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': '2013年1月16日', 'announcementCode': '[2013]3号', 'facts': '我局于2012年12月28日对你单位进行了现场调查，发现你单位在房山区阎村镇建设公共租赁住房项目，占地9.1万平方米，建筑面积14.8万平方米，总投资6.8亿元。该项目未依法报批环境影响评价文件，已于2011年9月擅自开工建设，目前主体已经完工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京市房山区公共租赁住房发展中心\n\u3000\u3000法定代表人：刘希智\n\u3000\u3000地址：北京市房山区良乡政通路7号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令你单位在收到本决定书之日起60日之内，补办环评审批手续，并将办理情况书面报告我局。\n\u3000\u3000我局将对你单位补办环评审批手续的情况进行监督。逾期不补办手续的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c86f9bf8d0d3a5e4871'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700092/index.html
+存入parsed_data
+{'announcementTitle': '责令北京中关村永丰产业基地发展有限公司改正违法行为决定书([2013]2号)', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '[2013]2号', 'facts': '我局于2013年1月15日对你单位位于北京市海淀区中关村永丰产业基地II-2地块的中关村壹号一期项目进行检查，该项目建设企业研发、中试及辅助配套用房，总建筑面积43万平方米。该项目未办理环评审批手续，但已于2012年5月开始土方施工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：北京中关村永丰产业基地发展有限公司\n\u3000\u3000法定代表人：王志刚\n\u3000\u3000地址：北京市海淀区永丰产业基地永捷北路3号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据《中华人民共和国环境影响评价法》第三十一条第一款的规定，责令你单位停止建设，在收到本决定书之日起3个月之内，限期补办环评审批手续，并将改正情况书面报告我局。\n\u3000\u3000我局将对你单位改正违法行为的情况进行监督。逾期未改正的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c87f9bf8d0d3a5e4873'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
+url to parse http://www.bjepb.gov.cn/bjhrb/xxgk/ywdt/hbjczf/zlgzwfxwjds75/700091/index.html
+存入parsed_data
+{'announcementTitle': '责令中铁二十二局集团有限公司改正违法行为决定书（[2013]1号）', 'announcementOrg': '北京市环境保护局', 'announcementDate': 'Bad date', 'announcementCode': '[2013]1号', 'facts': '我局于2012年12月28日对你单位进行了现场调查，发现你单位在房山区长阳镇夏场村二区53号建设职工住宅及配套项目，占地20.2万平方米，建筑面积24.8万平方米，总投资5.3亿元。该项目未依法报批环境影响评价文件，已于2010年4月擅自开工建设，目前主体工程已经完工。', 'defenseOpinion': '', 'defenseResponse': '', 'litigant': '当事人名称：中铁二十二局集团有限公司 \n\u3000\u3000法定代表人：刘国志\n\u3000\u3000地址： 北京市石景山区石景山路35号', 'punishmentBasement': '你单位的上述行为违反了《中华人民共和国环境影响评价法》第二十二条第一款、第二十五条的规定', 'punishmentDecision': '依据该法第三十一条第一款的规定，责令你单位在收到本决定书之日起60日之内，补办环评审批手续，并将办理情况书面报告我局。\n\u3000\u3000我局将对你单位补办环评审批手续的情况进行监督。逾期不补办手续的，我局将依法实施行政处罚', 'type': '行政处罚决定', 'oss_file_id': ObjectId('5c8a1c87f9bf8d0d3a5e4875'), 'status': 'not checked'}
+北京市环境保护局 数据解析  -- 数据导入完成
+北京市环境保护局 数据解析  -- 修改parsed完成
