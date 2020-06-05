@@ -9,7 +9,7 @@ chardet==3.0.4
 coverage==4.4.2
 crcmod==1.7
 cssselect==1.0.3
-Django==2.0
+Django==2.2.13
 djangorestframework==3.7.7
 docutils==0.14
 et-xmlfile==1.0.1
