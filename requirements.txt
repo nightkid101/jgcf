@@ -67,7 +67,7 @@ tabula-py==1.0.0
 urllib3==1.22
 w3lib==1.19.0
 Wand==0.4.4
-websockets==4.0.1
+websockets==9.1
 xlrd==1.1.0
 xlwt==1.3.0
 xpdf-python==0.0.10
