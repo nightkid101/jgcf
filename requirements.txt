@@ -23,7 +23,7 @@ google-cloud-vision==0.30.0
 googleapis-common-protos==1.5.3
 grpcio==1.9.1
 html2text==2018.1.9
-httpie==0.9.9
+httpie==3.1.0
 idna==2.6
 imagesize==0.7.1
 jdcal==1.3
